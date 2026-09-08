@@ -1,0 +1,2446 @@
+[
+  {
+    "id": "1",
+    "name": "IBR Bereana",
+    "address": "R. Coronel Brandão",
+    "number": "296",
+    "city": "Xapury",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69930-000",
+    "latitude": -10.654355580450076,
+    "longitude": -68.50361439085246
+  },
+  {
+    "id": "2",
+    "name": "IBR Betel",
+    "address": "Av. Epaminondas Jácome",
+    "number": "973",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -9.97102331557362,
+    "longitude": -67.79127275528869
+  },
+  {
+    "id": "3",
+    "name": "Primeira IBR de Boca do Acre",
+    "address": "Av. Amazonas",
+    "number": "2551",
+    "city": "Boca do Acre",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69850-000",
+    "latitude": -8.7543648,
+    "longitude": -67.3960471
+  },
+  {
+    "id": "4",
+    "name": "IBR da Bíblia",
+    "address": "R. Senador Kaiala",
+    "number": "112",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69918-198",
+    "latitude": -9.964871870769972,
+    "longitude": -67.8323303543838
+  },
+  {
+    "id": "5",
+    "name": "IBR da Fé",
+    "address": "Estr. do São Francisco",
+    "number": "388",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69909-000",
+    "latitude": -9.957097226645743,
+    "longitude": -67.7987161662627
+  },
+  {
+    "id": "6",
+    "name": "Segunda IBR da Fé",
+    "address": "R. Gavião",
+    "number": "1922",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69921-198",
+    "latitude": -9.93305392417697,
+    "longitude": -67.82490343538723
+  },
+  {
+    "id": "7",
+    "name": "IBR da Paz",
+    "address": "R. Valdomiro Lopes",
+    "number": "",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69912-700",
+    "latitude": -9.95224573596304,
+    "longitude": -67.84103494092233
+  },
+  {
+    "id": "8",
+    "name": "Primeira IBR de Feijó",
+    "address": "R. Getulio Vargas",
+    "number": "370",
+    "city": "Feijó",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69960-000",
+    "latitude": -8.16853805331407,
+    "longitude": -70.35551794221077
+  },
+  {
+    "id": "9",
+    "name": "IBR do Aviário",
+    "address": "Estr. do Aviário",
+    "number": "797-803",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69909-230",
+    "latitude": -9.964686272914488,
+    "longitude": -67.80595561607745
+  },
+  {
+    "id": "10",
+    "name": "IBR do Calvário",
+    "address": "Estr. do Calafate",
+    "number": "5590",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69914-320",
+    "latitude": -9.97758702354888,
+    "longitude": -67.88616992053649
+  },
+  {
+    "id": "11",
+    "name": "IBR do Universitário",
+    "address": "R. Gumercindo Bessa",
+    "number": "167",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69904-410",
+    "latitude": -9.946297473721096,
+    "longitude": -67.88483467046619
+  },
+  {
+    "id": "12",
+    "name": "IBR Emanuel",
+    "address": "R. Rio Grande do Sul",
+    "number": "1633",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69903-420",
+    "latitude": -9.977662679429589,
+    "longitude": -67.8238215038589
+  },
+  {
+    "id": "13",
+    "name": "IBR Filadélfia",
+    "address": "R. Francisco José de Oliveira",
+    "number": "2598",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69903-705",
+    "latitude": -9.997381588951468,
+    "longitude": -67.81746183290103
+  },
+  {
+    "id": "14",
+    "name": "IBR Israel",
+    "address": "R. São Pedro",
+    "number": "",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69906-320",
+    "latitude": -9.973943323174185,
+    "longitude": -67.84117340671989
+  },
+  {
+    "id": "15",
+    "name": "IBR Jerusalém",
+    "address": "R. Campo Grande",
+    "number": "806 - b",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69911-470",
+    "latitude": -9.982576213190034,
+    "longitude": -67.83343860026339
+  },
+  {
+    "id": "16",
+    "name": "IBR Moriá",
+    "address": "BR-364",
+    "number": "",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69919-775",
+    "latitude": -9.948930414144222,
+    "longitude": -67.85328333332123
+  },
+  {
+    "id": "18",
+    "name": "Primeira IBR de Rio Branco",
+    "address": "R. Mal. Deodoro",
+    "number": "284",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69900-120",
+    "latitude": -9.97427845547404,
+    "longitude": -67.80700422857188
+  },
+  {
+    "id": "19",
+    "name": "Primeira IBR Sena Madureira",
+    "address": "R. Monsenhor Távora",
+    "number": "205",
+    "city": "Sena Madureira",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69940-000",
+    "latitude": -9.067120596534703,
+    "longitude": -68.65607809888968
+  },
+  {
+    "id": "20",
+    "name": "IBR Shalom",
+    "address": "R. Sete de Dezembro",
+    "number": "257",
+    "city": "Rio Branco",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69902-756",
+    "latitude": -9.94577826347079,
+    "longitude": -67.80997735928932
+  },
+  {
+    "id": "21",
+    "name": "Igreja Evangélica de Tarauacá",
+    "address": "R. Quintino Bocaiúva",
+    "number": "16",
+    "city": "Tarauacá",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "69970-000",
+    "latitude": -8.158991485193038,
+    "longitude": -70.76309310681283
+  },
+  {
+    "id": "22",
+    "name": "Igreja Batista Regular Sítio Caiçara",
+    "address": "Aurora",
+    "number": "",
+    "city": "Aurora",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63360-000",
+    "latitude": -6.973615083848536,
+    "longitude": -38.97004314654583
+  },
+  {
+    "id": "23",
+    "name": "Igreja Batista Regular Vivendo a Palavra",
+    "address": "Recreio",
+    "number": "",
+    "city": "Aurora",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63360-000",
+    "latitude": -6.942921306992328,
+    "longitude": -38.97648620458414
+  },
+  {
+    "id": "24",
+    "name": "1ª Igreja Batista Regular de Barbalha",
+    "address": "Av. Perimetral Leste",
+    "number": "321",
+    "city": "Barbalha",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63180-000",
+    "latitude": -7.315117755133636,
+    "longitude": -39.29811622429472
+  },
+  {
+    "id": "25",
+    "name": "Igreja Batista Regular Diadema",
+    "address": "Rua Divino Salvador",
+    "number": "107",
+    "city": "Barbalha",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63180-000",
+    "latitude": -7.310801684068818,
+    "longitude": -39.30450077332183
+  },
+  {
+    "id": "26",
+    "name": "Igreja Batista Regular de Brejo Santo",
+    "address": "Rua Manoel Inácio Bezerra",
+    "number": "242",
+    "city": "Brejo Santo",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63260-000",
+    "latitude": -7.491093479707288,
+    "longitude": -38.98477543325949
+  },
+  {
+    "id": "27",
+    "name": "Igreja Batista Regular do Crato",
+    "address": "Av. Teodorico Teles",
+    "number": "72",
+    "city": "Crato",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63100-000",
+    "latitude": -7.231389092763223,
+    "longitude": -39.40687617669057
+  },
+  {
+    "id": "28",
+    "name": "Igreja Batista Regular do Calvário",
+    "address": "Av. Tomás Osterne de Alençar",
+    "number": "3100",
+    "city": "Crato",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63119-340",
+    "latitude": -7.223628566301874,
+    "longitude": -39.406966464253266
+  },
+  {
+    "id": "29",
+    "name": "Igreja Batista Regular da Graça",
+    "address": "Av João Alves Rocha",
+    "number": "727",
+    "city": "Crato",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63100-000",
+    "latitude": -7.234225537347116,
+    "longitude": -39.4216276055263
+  },
+  {
+    "id": "30",
+    "name": "Igreja Batista Regular Maranata",
+    "address": "R. Antenor Gomes",
+    "number": "156",
+    "city": "Crato",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63110-140",
+    "latitude": -7.245683304317251,
+    "longitude": -39.43080400977045
+  },
+  {
+    "id": "31",
+    "name": "Igreja Batista Regular Ebenézer",
+    "address": "Rua Maria Clotilde",
+    "number": "30",
+    "city": "Crato",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60100-000",
+    "latitude": -7.22948655258144,
+    "longitude": -39.38564099812732
+  },
+  {
+    "id": "32",
+    "name": "Igreja Batista Regular de Farias Brito",
+    "address": "Rua Antônio Ferreira Lima",
+    "number": "26",
+    "city": "Farias Brito",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63185-000",
+    "latitude": -6.929905333527857,
+    "longitude": -39.573276199981834
+  },
+  {
+    "id": "33",
+    "name": "Igreja Batista Regular Betel",
+    "address": "Rua Professora Maria Pedrina",
+    "number": "252",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63050-190",
+    "latitude": -7.21385497323208,
+    "longitude": -39.32735802032441
+  },
+  {
+    "id": "34",
+    "name": "Igreja Batista Regular Canaã",
+    "address": "Rua Delmiro Gouveia",
+    "number": "1074",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63011-970",
+    "latitude": -7.21302143853555,
+    "longitude": -39.321034496277896
+  },
+  {
+    "id": "35",
+    "name": "Igreja Batista Regular Esperança",
+    "address": "R. José Esmeraldo Pinheiro",
+    "number": "300",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63024-772",
+    "latitude": -7.226188015172427,
+    "longitude": -39.35152595371881
+  },
+  {
+    "id": "36",
+    "name": "Igreja Batista Regular da Fé",
+    "address": "R. Fco. Vicente da Silva Cavalcante",
+    "number": "",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63041-080",
+    "latitude": -7.2292573783179055,
+    "longitude": -39.32835500607123
+  },
+  {
+    "id": "37",
+    "name": "Igreja Batista Regular Fonte de Luz",
+    "address": "Rua Martiniano Santana",
+    "number": "606",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63049-030",
+    "latitude": -7.236305125176737,
+    "longitude": -39.297699325113285
+  },
+  {
+    "id": "38",
+    "name": "1ª Igreja Batista Regular de Juazeiro do Norte",
+    "address": "Rua São Paulo",
+    "number": "797",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63011-970",
+    "latitude": -7.206781435022062,
+    "longitude": -39.316487682785045
+  },
+  {
+    "id": "39",
+    "name": "Igreja Batista Regular Nova Jerusalém",
+    "address": "R. João Balbino",
+    "number": "107",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63010-000",
+    "latitude": -7.20320277456697,
+    "longitude": -39.27240110792137
+  },
+  {
+    "id": "40",
+    "name": "Igreja Batista Regular do Novo Juazeiro",
+    "address": "Av Antônio Sales",
+    "number": "14",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63100-970",
+    "latitude": -7.228397824480528,
+    "longitude": -39.295527682784716
+  },
+  {
+    "id": "41",
+    "name": "Igreja Batista Regular da Paz",
+    "address": "R. Rui Barbosa",
+    "number": "220",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63050-330",
+    "latitude": -7.220535217760875,
+    "longitude": -39.31461209442804
+  },
+  {
+    "id": "42",
+    "name": "Igreja Batista Regular Sião",
+    "address": "R. Primeiro de Maio",
+    "number": "109",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63020-325",
+    "latitude": -7.212201769904491,
+    "longitude": -39.309465705526634
+  },
+  {
+    "id": "43",
+    "name": "Igreja Batista Regular Filadélfia",
+    "address": "R. Santa Quiteria",
+    "number": "73",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63043-810",
+    "latitude": -7.253195768785695,
+    "longitude": -39.335084079869915
+  },
+  {
+    "id": "44",
+    "name": "Primeira Igreja Batista Regular de Mauriti",
+    "address": "Rua Henrique Alencar",
+    "number": "99",
+    "city": "Mauriti",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63210-000",
+    "latitude": -7.390363977880781,
+    "longitude": -38.774408392575516
+  },
+  {
+    "id": "45",
+    "name": "Igreja Batista Regular de Alto Vermelho",
+    "address": "Sítio Alto Vermelho",
+    "number": "",
+    "city": "Mauriti",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63210-000",
+    "latitude": -7.303256410414365,
+    "longitude": -38.80624484654583
+  },
+  {
+    "id": "46",
+    "name": "1ª Igreja Batista Regular de Milagres",
+    "address": "R. Cel. Domingos",
+    "number": "889",
+    "city": "Milagres",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63250-000",
+    "latitude": -7.314002137348311,
+    "longitude": -38.94238290422003
+  },
+  {
+    "id": "47",
+    "name": "Igreja Batista Regular Bereiana",
+    "address": "R. Cap. Vasconcelos",
+    "number": "347",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60851-220",
+    "latitude": -3.764938733557754,
+    "longitude": -38.51701788369374
+  },
+  {
+    "id": "48",
+    "name": "Igreja Batista Regular no Castelão",
+    "address": "Rua Trajano de Morais",
+    "number": "416",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60861-710",
+    "latitude": -3.811962594189281,
+    "longitude": -38.52381061051317
+  },
+  {
+    "id": "49",
+    "name": "Igreja Batista Regular Maranata",
+    "address": "Av. das Graviolas",
+    "number": "240",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60190-600",
+    "latitude": -3.7501013838770607,
+    "longitude": -38.472491483013975
+  },
+  {
+    "id": "50",
+    "name": "Igreja Batista Regular Hermom",
+    "address": "Rua Professor Solon Farias",
+    "number": "278",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60833-172",
+    "latitude": -3.7903821388528036,
+    "longitude": -38.476774216076976
+  },
+  {
+    "id": "51",
+    "name": "Igreja Batista Regular Nova Jerusalém",
+    "address": "Av. D",
+    "number": "1230",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60533-622",
+    "latitude": -3.762444593408341,
+    "longitude": -38.602353449131975
+  },
+  {
+    "id": "52",
+    "name": "Igreja Batista Regular Elim",
+    "address": "R. Avaré",
+    "number": "106",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60870-130",
+    "latitude": -3.844156383430471,
+    "longitude": -38.52448557189452
+  },
+  {
+    "id": "53",
+    "name": "Igreja Batista Regular em Curió",
+    "address": "R. Nelson Coelho",
+    "number": "802",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60831-410",
+    "latitude": -3.832306989562466,
+    "longitude": -38.4612152356404
+  },
+  {
+    "id": "54",
+    "name": "Igreja Batista Regular Manancial",
+    "address": "Av. Desembargador Moreira",
+    "number": "2669",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60170-002",
+    "latitude": -3.7488894963050674,
+    "longitude": -38.50186622400463
+  },
+  {
+    "id": "55",
+    "name": "Igreja Batista Luz do Mundo",
+    "address": "R. A, nº 53",
+    "number": "",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.743530995195901,
+    "longitude": -38.46417525098669
+  },
+  {
+    "id": "56",
+    "name": "Igreja Batista Regular Elyon",
+    "address": "R. São Luís do Oeste",
+    "number": "39",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60540-469",
+    "latitude": -3.777031903386022,
+    "longitude": -38.60859935931729
+  },
+  {
+    "id": "57",
+    "name": "Igreja Batista Regular Jardim Tessalônica",
+    "address": "R. Carnaubal",
+    "number": "806",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60340-045",
+    "latitude": -3.7223615534834282,
+    "longitude": -38.58510904169218
+  },
+  {
+    "id": "58",
+    "name": "Igreja Batista Regular João XXIII",
+    "address": "R. Décio de Castro",
+    "number": "85",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60545-455",
+    "latitude": -3.7740358917082064,
+    "longitude": -38.59005994582641
+  },
+  {
+    "id": "59",
+    "name": "Igreja Batista Regular Esperança",
+    "address": "Av. Bernardo Manuel",
+    "number": "12999",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60741-600",
+    "latitude": -3.8314633862894087,
+    "longitude": -38.56056460596757
+  },
+  {
+    "id": "60",
+    "name": "Igreja Batista Regular Filemom",
+    "address": "R. Cel. João de Oliveira",
+    "number": "868",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60841-170",
+    "latitude": -3.8228757214018594,
+    "longitude": -38.486556021692365
+  },
+  {
+    "id": "61",
+    "name": "Igreja Batista Regular da Fé",
+    "address": "R. Alan Kardec",
+    "number": "888",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60420-630",
+    "latitude": -3.764871459866764,
+    "longitude": -38.549584144913325
+  },
+  {
+    "id": "62",
+    "name": "Igreja Batista Regular do Mucuripe",
+    "address": "R. Córrego das Flôres",
+    "number": "73",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60175-480",
+    "latitude": -3.724982872866201,
+    "longitude": -38.47994117375022
+  },
+  {
+    "id": "63",
+    "name": "Igreja Batista Regular Ebenézer",
+    "address": "R. Iná Brito",
+    "number": "288",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60762-800",
+    "latitude": -3.8188733658427814,
+    "longitude": -38.5929686700403
+  },
+  {
+    "id": "64",
+    "name": "Igreja Batista Regular Maanaim",
+    "address": "R. Eça de Queirós",
+    "number": "19",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60740-730",
+    "latitude": -3.7846036330735333,
+    "longitude": -38.57873132771326
+  },
+  {
+    "id": "65",
+    "name": "Igreja Batista Regular Jordão",
+    "address": "R. Oliveira Lemos",
+    "number": "829",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60810-670",
+    "latitude": -3.8531948411198336,
+    "longitude": -38.48175876076763
+  },
+  {
+    "id": "66",
+    "name": "Igreja Batista Regular Ágape",
+    "address": "R. Alves Bezerra",
+    "number": "253",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60736-130",
+    "latitude": -3.808168918970755,
+    "longitude": -38.60816830865871
+  },
+  {
+    "id": "67",
+    "name": "Igreja Batista Regular do Cordeiro",
+    "address": "R. Barba Alardo",
+    "number": "565",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60741-040",
+    "latitude": -3.7810645029985173,
+    "longitude": -38.55072896818617
+  },
+  {
+    "id": "68",
+    "name": "Igreja Batista Regular Emanuel",
+    "address": "R. Nereu Ramos",
+    "number": "880",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60720-121",
+    "latitude": -3.78183504930441,
+    "longitude": -38.572412230724765
+  },
+  {
+    "id": "69",
+    "name": "Igreja Batista Regular de Beberibe",
+    "address": "R. Cel. Bia",
+    "number": "414",
+    "city": "Beberibe",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62840-000",
+    "latitude": -4.182699292412607,
+    "longitude": -38.12878079701854
+  },
+  {
+    "id": "70",
+    "name": "Primeira Igreja Batista em Icaraí",
+    "address": "Rua Cauby Damasceno",
+    "number": "811",
+    "city": "Caucaia",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "61620-250",
+    "latitude": -3.6689079703417686,
+    "longitude": -38.675767737894276
+  },
+  {
+    "id": "71",
+    "name": "Igreja Batista Regular Nova Vida",
+    "address": "R. das Tulípas - Coaçu",
+    "number": "",
+    "city": "Eusébio",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "61760-000",
+    "latitude": -3.8319505397866456,
+    "longitude": -38.456990856399635
+  },
+  {
+    "id": "72",
+    "name": "Igreja Batista Regular Getsêmani",
+    "address": "R. Quatorze",
+    "number": "490",
+    "city": "Maracanaú",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "61905-570",
+    "latitude": -3.8658094076371077,
+    "longitude": -38.62243148960385
+  },
+  {
+    "id": "73",
+    "name": "Igreja Batista Regular Gileade",
+    "address": "R. 26",
+    "number": "228",
+    "city": "Maracanaú",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "61900-510",
+    "latitude": -3.8767447146747602,
+    "longitude": -38.613097468185316
+  },
+  {
+    "id": "74",
+    "name": "Igreja Batista Regular da Graça",
+    "address": "532, Av. Penetração Sul",
+    "number": "524",
+    "city": "Maracanaú",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "61936-220",
+    "latitude": -3.8404433771505166,
+    "longitude": -38.59128648116711
+  },
+  {
+    "id": "75",
+    "name": "Primeira Igreja Batista Regular de Maracanaú",
+    "address": "Av. dos Funcionários",
+    "number": "189",
+    "city": "Maracanaú",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "61903-010",
+    "latitude": -3.8778009054436184,
+    "longitude": -38.59588331266298
+  },
+  {
+    "id": "76",
+    "name": "Igreja Batista Regular Novo Oriente",
+    "address": "R. Vinte e Nove",
+    "number": "1",
+    "city": "Maracanaú",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "61921-285",
+    "latitude": -3.8449629977243345,
+    "longitude": -38.61279169702197
+  },
+  {
+    "id": "77",
+    "name": "Igreja Batista Regular Rocha Eterna",
+    "address": "Rua F",
+    "number": "189",
+    "city": "Itaitinga",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "61880-000",
+    "latitude": -3.9078619571568525,
+    "longitude": -38.510799766330564
+  },
+  {
+    "id": "78",
+    "name": "Igreja Batista Regular de Icó",
+    "address": "R. Dr. Inácio Dias",
+    "number": "1985",
+    "city": "Icó",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63430-000",
+    "latitude": -6.3997158061539,
+    "longitude": -38.86128061048412
+  },
+  {
+    "id": "79",
+    "name": "Igreja Batista Regular de Lima Campos",
+    "address": "R. dos Amorés",
+    "number": "123",
+    "city": "Icó",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63430-000",
+    "latitude": -6.40658506709696,
+    "longitude": -38.95195103450425
+  },
+  {
+    "id": "80",
+    "name": "1ª Igreja Batista Regular de Iguatu",
+    "address": "R. Gustavo Correia",
+    "number": "",
+    "city": "Iguatu",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63500-053",
+    "latitude": -6.362613501389255,
+    "longitude": -39.298499517902606
+  },
+  {
+    "id": "81",
+    "name": "Igreja Batista Regular Filadélfia",
+    "address": "Rua Silvino Filgueiras",
+    "number": "901",
+    "city": "Iguatu",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63504-115",
+    "latitude": -6.3669916898350545,
+    "longitude": -39.30832095466626
+  },
+  {
+    "id": "82",
+    "name": "Igreja Batista Regular Ebenézer de Jucás",
+    "address": "R. A Francisco André",
+    "number": "158",
+    "city": "Jucás",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63580-000",
+    "latitude": -6.521130083342483,
+    "longitude": -39.52745006259183
+  },
+  {
+    "id": "83",
+    "name": "1ª Igreja Batista Regular em Vila São Pedro",
+    "address": "R. Max Weiner de Souza",
+    "number": "",
+    "city": "Jucás",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63580-000",
+    "latitude": -6.448421245928639,
+    "longitude": -39.444630962400836
+  },
+  {
+    "id": "84",
+    "name": "Igreja Batista Regular de Guassussê",
+    "address": "R. 15 de Novembro",
+    "number": "",
+    "city": "Orós",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63520-000",
+    "latitude": -6.339595242352506,
+    "longitude": -38.9841863446301
+  },
+  {
+    "id": "85",
+    "name": "1ª Igreja Batista Regular de Orós",
+    "address": "R. José de Matos Leite",
+    "number": "100",
+    "city": "Orós",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63520-000",
+    "latitude": -6.240106679996668,
+    "longitude": -38.913170196995274
+  },
+  {
+    "id": "86",
+    "name": "1ª Igreja Batista Regular em Palestina",
+    "address": "Av. Manfredo Ferreira Lima",
+    "number": "466",
+    "city": "Orós",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63525-000",
+    "latitude": -6.32869200916475,
+    "longitude": -39.01617269260576
+  },
+  {
+    "id": "87",
+    "name": "Igreja Batista Regular de Vacaria",
+    "address": "Vacaria, s/n; Distrito de Ibicatú",
+    "number": "",
+    "city": "Várzea Alegre",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63540-000",
+    "latitude": -6.8282152548643085,
+    "longitude": -39.451210445387765
+  },
+  {
+    "id": "88",
+    "name": "Igreja Batista Regular de Várzea Alegre",
+    "address": "Rua Júlio Alves Bastos, 105 Praça da Bandeira",
+    "number": "",
+    "city": "Várzea Alegre",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63540-000",
+    "latitude": -6.794490797201569,
+    "longitude": -39.301649469791364
+  },
+  {
+    "id": "89",
+    "name": "Igreja Batista Regular Emanuel",
+    "address": "R. Armando Arrais Feitosa",
+    "number": "29",
+    "city": "Aiuaba",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63575-000",
+    "latitude": -6.568836300605687,
+    "longitude": -40.122320989573126
+  },
+  {
+    "id": "90",
+    "name": "Primeira Igreja Batista Regular de Campos Sales",
+    "address": "Av. Francisco Ademar de Andrade",
+    "number": "928",
+    "city": "Campos Sales",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63150-000",
+    "latitude": -7.076248158190424,
+    "longitude": -40.36992559815637
+  },
+  {
+    "id": "91",
+    "name": "Igreja Batista de Quixariú",
+    "address": "R. Leonardo de Andrade",
+    "number": "105",
+    "city": "Campos Sales",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63150-000",
+    "latitude": -6.826832493163565,
+    "longitude": -40.30173080383496
+  },
+  {
+    "id": "92",
+    "name": "Igreja Batista Regular da Fé",
+    "address": "R. Manoel Ferreira de Sousa",
+    "number": "669",
+    "city": "Saboerio",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63590-000",
+    "latitude": -6.532641819559273,
+    "longitude": -39.90220043319096
+  },
+  {
+    "id": "93",
+    "name": "Igreja Batista Regular de Tauá",
+    "address": "R. Gen. José Scarceta",
+    "number": "2",
+    "city": "Tauá",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63660-000",
+    "latitude": -6.005854374836181,
+    "longitude": -40.29092265467076
+  },
+  {
+    "id": "94",
+    "name": "1ª Igreja Batista Regular de Aracati",
+    "address": "R. Duque de Caxias",
+    "number": "162",
+    "city": "Aracati",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62800-000",
+    "latitude": -4.56691339475755,
+    "longitude": -37.76869686632371
+  },
+  {
+    "id": "95",
+    "name": "Igreja Batista Regular Israel",
+    "address": "R. Duque de Caxias",
+    "number": "162",
+    "city": "Aracati",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62800-000",
+    "latitude": -4.566966868615879,
+    "longitude": -37.76873978166912
+  },
+  {
+    "id": "96",
+    "name": "Igreja Batista Regular El-Shadday",
+    "address": "R. Cônego Agostinho",
+    "number": "2210",
+    "city": "Russas",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62900-000",
+    "latitude": -4.938246748890921,
+    "longitude": -37.97587991421062
+  },
+  {
+    "id": "97",
+    "name": "Igreja Batista Regular de Boa Viagem",
+    "address": "R. José Inácio de Carvalho",
+    "number": "133",
+    "city": "Boa Viagem",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63870-000",
+    "latitude": -5.126289477865689,
+    "longitude": -39.73472150308178
+  },
+  {
+    "id": "98",
+    "name": "Igreja Batista Regular de Madeira Cortada",
+    "address": "Vila Madeira Cortada",
+    "number": "",
+    "city": "Boa Viagem",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63870-000",
+    "latitude": -4.8890353,
+    "longitude": -39.7355154
+  },
+  {
+    "id": "99",
+    "name": "Igreja Batista Regular de Quixadá",
+    "address": "Rua José de Queiroz Pessoa",
+    "number": "1790",
+    "city": "Quixadá",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63900-000",
+    "latitude": -4.968250858721722,
+    "longitude": -39.01893756767046
+  },
+  {
+    "id": "100",
+    "name": "Igreja Batista Regular de Quixeramobim",
+    "address": "R. Des. Américo Militão",
+    "number": "73",
+    "city": "Quixeramobim",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63800-000",
+    "latitude": -5.195124867038202,
+    "longitude": -39.295851395011425
+  },
+  {
+    "id": "101",
+    "name": "Igreja Batista Regular de Senador Pompeu",
+    "address": "Rua Joaquim Ferreira Magalhães",
+    "number": "721",
+    "city": "Senador Pompeu",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63600-000",
+    "latitude": -5.591335283139537,
+    "longitude": -39.37477118509349
+  },
+  {
+    "id": "102",
+    "name": "1ª Igreja Batista Regular da Esperança",
+    "address": "R. Humberto Lopes",
+    "number": "987",
+    "city": "Sobral",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62023-070",
+    "latitude": -3.688363045140508,
+    "longitude": -40.360129532014994
+  },
+  {
+    "id": "103",
+    "name": "Primeira Igreja Batista Regular de Tianguá",
+    "address": "R. Madalena Nunes",
+    "number": "325",
+    "city": "Tianguá",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62320-000",
+    "latitude": -3.726609133442078,
+    "longitude": -40.99414894796069
+  },
+  {
+    "id": "104",
+    "name": "Igreja Batista Regular Rocha Eterna",
+    "address": "Rua F, 189 - Conj. Parque Dom Pedro",
+    "number": "189",
+    "city": "Itaitinga",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "61880-000",
+    "latitude": -3.9078619571568525,
+    "longitude": -38.510799766330564
+  },
+  {
+    "id": "105",
+    "name": "Cong. Batista Regular em Apodi",
+    "address": "Rua Francisca Marcelina Torres, Portal da Chapada",
+    "number": "30",
+    "city": "Apodi",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59700-000",
+    "latitude": -5.649475,
+    "longitude": -37.8010766,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "105-p1",
+        "name": "Pr. Charles Nascimento",
+        "email": "charles.nascimento@yahoo.com",
+        "phone": "(84) 9 8800-6247",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Charles-Bronson-Aquino-do-Nascimento.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png"
+  },
+  {
+    "id": "106",
+    "name": "Igreja Batista Regular de Assu",
+    "address": "Rua Bernardo Vieira, Centro",
+    "number": "s/n",
+    "city": "Assu",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59650-000",
+    "latitude": -5.5771183,
+    "longitude": -36.9055674,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "106-p1",
+        "name": "Pr. Jerry Adriane",
+        "phone": "(84) 9 9944-1150",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Jerry.jpeg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Assu.jpeg"
+  },
+  {
+    "id": "107",
+    "name": "Igreja Batista Fundamentalista de Brejinho",
+    "address": "Rua João Antônio de Mendonça",
+    "number": "3175",
+    "city": "Brejinho",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59255-000",
+    "latitude": -6.198277,
+    "longitude": -35.362018,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "107-p1",
+        "name": "Pr. Francisco Alves (Laércio)",
+        "phone": "(84) 9 9875-2466",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Laercio.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Brejinho.jpeg"
+  },
+  {
+    "id": "108",
+    "name": "Igreja Batista Esperança",
+    "address": "Rua Joel Damasceno, Centro",
+    "number": "940",
+    "city": "Caicó",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59300-000",
+    "latitude": -6.4642721,
+    "longitude": -37.0960238,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "108-p1",
+        "name": "Pr. Laércio Dantas",
+        "email": "laercioenelma@gmail.com",
+        "phone": "(84) 9 8179-0151",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Laercio-Dantas.jpg"
+      },
+      {
+        "id": "108-p2",
+        "name": "Pr. Francisco Medeiros",
+        "phone": "(84) 9 9961-3015",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Francisco-Medeiros.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Caico.jpg"
+  },
+  {
+    "id": "109",
+    "name": "Igreja Evangélica Batista de Campo Redondo",
+    "address": "Rua Senador João Câmara, Centro",
+    "number": "101",
+    "city": "Campo Redondo",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59230-000",
+    "latitude": -6.0874351,
+    "longitude": -37.9198737,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "109-p1",
+        "name": "Pr. Francisco Iranildo",
+        "phone": "(84) 9 8803-4208",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Iranildo.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Campo-Redondo.jpeg"
+  },
+  {
+    "id": "110",
+    "name": "Cong. Batista de Malhada Vermelha",
+    "address": "Povoado de Malhada Vermelha",
+    "number": "Sem número",
+    "city": "Campo Redondo",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59230-000",
+    "latitude": -6.0874351,
+    "longitude": -37.9198737,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "110-p1",
+        "name": "Pr. Francisco Iranildo",
+        "phone": "(84) 9 8803-4208",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Iranildo.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Malhada-Vermelha.jpeg"
+  },
+  {
+    "id": "111",
+    "name": "Cong. Evangélica Batista",
+    "address": "Serra do Doutor I, Zona Rural",
+    "number": "Sem número",
+    "city": "Campo Redondo",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59230-000",
+    "latitude": -6.2200005,
+    "longitude": -36.1925642,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "111-p1",
+        "name": "Pr. Francisco Iranildo",
+        "phone": "(84) 9 8803-4208",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Iranildo.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png"
+  },
+  {
+    "id": "112",
+    "name": "Igreja Batista Regular de Carnaubais",
+    "address": "Rua João Batista L. Montenegro, Centro",
+    "number": "215",
+    "city": "Carnaubais",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59665-000",
+    "latitude": -5.3383474,
+    "longitude": -36.8364174,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "112-p1",
+        "name": "Pr. Antônio Sobrinho",
+        "phone": "(84) 9 9624-5532",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Carnaubais.jpeg"
+  },
+  {
+    "id": "113",
+    "name": "Igreja Batista Bereiana",
+    "address": "Rua Irmã Maria José, Centro",
+    "number": "47",
+    "city": "Ceará-Mirim",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59570-000",
+    "latitude": -5.6444493,
+    "longitude": -35.4185029,
+    "schedule": [],
+    "pastors": [],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Ceara-Mirim.png"
+  },
+  {
+    "id": "114",
+    "name": "Congregação Batista Bereiana de Massangana",
+    "address": "Rua da Linha, Massangana",
+    "number": "654",
+    "city": "Ceará-Mirim",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59570-975",
+    "latitude": -5.6465257,
+    "longitude": -35.3521332,
+    "schedule": [],
+    "pastors": [],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Massangana.png"
+  },
+  {
+    "id": "115",
+    "name": "Igreja Batista Regular de Cel Ezequiel",
+    "address": "Av. Getúlio Vargas, Centro",
+    "number": "338",
+    "city": "Coronel Ezequiel",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59220-000",
+    "latitude": -6.3867338,
+    "longitude": -36.2152385,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "115-p1",
+        "name": "Pr. Luís Pereira",
+        "phone": "(84) 9 8639-5806",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Luis.jpeg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Cel.-Ezequiel.jpeg"
+  },
+  {
+    "id": "116",
+    "name": "Igreja Batista Regular em Extremoz",
+    "address": "Trav. Luíz Góis, Pr. Gonçalo Henrique",
+    "number": "65",
+    "city": "Extremoz",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59575-000",
+    "latitude": -5.7054567,
+    "longitude": -35.2963131,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "116-p1",
+        "name": "Pr. Jonas",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Extremoz.png"
+  },
+  {
+    "id": "117",
+    "name": "Igreja Batista Regular de Ipanguaçu",
+    "address": "Av. Luiz Gonzaga, Centro",
+    "number": "10292",
+    "city": "Ipanguaçu",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59508-000",
+    "latitude": -5.5052165,
+    "longitude": -36.8587116,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "117-p1",
+        "name": "Ir. Nunes",
+        "phone": "(84) 9 9998-2436",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Ipanguacu.jpeg"
+  },
+  {
+    "id": "118",
+    "name": "Igreja Batista Regular Ebenézer",
+    "address": "Rua José Severiano da Câmara, Centro",
+    "number": "254",
+    "city": "João Câmara",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59550-000",
+    "latitude": -5.5374381,
+    "longitude": -35.8196165,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "118-p1",
+        "name": "Pr. Moisés Fernandes",
+        "phone": "(84) 9 9629-9740",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Moises.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Joao-Camara.png"
+  },
+  {
+    "id": "119",
+    "name": "Cong. Batista Regular de Lages Pintada",
+    "address": "Rua São Francisco, Centro",
+    "number": "244",
+    "city": "Lajes Pintadas",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59235-000",
+    "latitude": -6.1491495,
+    "longitude": -36.1163522,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "119-p1",
+        "name": "Pr. Márcio Maciel",
+        "phone": "(84) 9 8782-5333",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Marcio.jpeg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Lages-Pintada.jpeg"
+  },
+  {
+    "id": "120",
+    "name": "Igreja Evangélica Batista Regular de Macau",
+    "address": "Rua Pe. João Clemente, Centro",
+    "number": "S/N",
+    "city": "Macau",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59500-000",
+    "latitude": -5.1155728,
+    "longitude": -36.6317782,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "120-p1",
+        "name": "Pr. Francisco Neto",
+        "phone": "(84) 9 8670-2757",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Pr.-Neto.jpeg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Macau.jpeg"
+  },
+  {
+    "id": "121",
+    "name": "Igreja Batista Regular Maranata em Martins",
+    "address": "RN 117, Cruz das Almas",
+    "number": "2022",
+    "city": "Martins",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59800-000",
+    "latitude": -6.0874351,
+    "longitude": -37.9198737,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "121-p1",
+        "name": "Pr. Eliakim Aquino",
+        "email": "eliakim.aquino@gmail.com",
+        "phone": "(84) 9 8803-2613",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/pr.-Eliakim_.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Martins_.jpeg"
+  },
+  {
+    "id": "122",
+    "name": "Igreja Batista Fundamentalista de Montanhas",
+    "address": "Rua João Moreira, Cidade Nova",
+    "number": "380",
+    "city": "Montanhas",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59198-000",
+    "latitude": -6.4912511,
+    "longitude": -35.2877155,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "122-p1",
+        "name": "Pr. Walkênio Medeiros",
+        "phone": "(84) 9 8883-3917",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Pr.-Walkenio.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Montanhas.jpeg"
+  },
+  {
+    "id": "123",
+    "name": "Igreja Batista Fundamentalista de Monte Alegre",
+    "address": "Rua Galvão, Centro",
+    "number": "s/n",
+    "city": "Monte Alegre",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59182-000",
+    "latitude": -6.0673626,
+    "longitude": -35.3349173,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "123-p1",
+        "name": "Pr. Aaron Soares",
+        "phone": "(84) 9 9858-8768",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Aaron.jpeg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/MonteAlegre.jpeg"
+  },
+  {
+    "id": "124",
+    "name": "Igreja Batista Reg. Bom Pastor",
+    "address": "Rua Raimundo Gurgel da Nóbrega, Dix-Sept Rosado",
+    "number": "12",
+    "city": "Mossoró",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59609-003",
+    "latitude": -5.1923566,
+    "longitude": -37.3835556,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "124-p1",
+        "name": "Pr. Alexandre Mosca",
+        "phone": "(84) 9 9989-1965",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Bom-pastor.jpg"
+  },
+  {
+    "id": "125",
+    "name": "Igreja Batista Reg. Central de Mossoró",
+    "address": "Av. Mota Neto, Nova Betânia",
+    "number": "349",
+    "city": "Mossoró",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59612-000",
+    "latitude": -5.1813801,
+    "longitude": -37.3636701,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "125-p1",
+        "name": "Pr. Charles Nascimento",
+        "email": "charles.nascimento@yahoo.com",
+        "phone": "(84) 9 8800-6247",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Charles-Bronson-Aquino-do-Nascimento.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Central.png"
+  },
+  {
+    "id": "126",
+    "name": "Igreja Batista Regular Maranata",
+    "address": "Rua Marieta Miranda, Abolição II",
+    "number": "S/N",
+    "city": "Mossoró",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59619-640",
+    "latitude": -5.169742,
+    "longitude": -37.3542918,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "126-p1",
+        "name": "Pr. Ádamo Rocha",
+        "email": "adamorocha@yaoo.com.br",
+        "phone": "(84) 9 8844-3331",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Adamo.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Maranata.png"
+  },
+  {
+    "id": "127",
+    "name": "Igreja Batista Regular de Mossoró",
+    "address": "Rua Manoel Cirilo, Boa Vista",
+    "number": "795",
+    "city": "Mossoró",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59605-020",
+    "latitude": -5.1930716,
+    "longitude": -37.3570301,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "127-p1",
+        "name": "Pr. Tiago Alessandro",
+        "phone": "(84) 9 8155-5945",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/mossoro.jpg"
+  },
+  {
+    "id": "128",
+    "name": "Igreja Batista Regular Capim Macio",
+    "address": "Rua Neuza Farache, Capim Macio",
+    "number": "1985",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59082-100",
+    "latitude": -5.8625559,
+    "longitude": -35.2018062,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "128-p1",
+        "name": "Pr. Vagner Pontes",
+        "phone": "(84) 9 9669-6027",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Vagner.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Capim-Macio.jpeg"
+  },
+  {
+    "id": "129",
+    "name": "Igreja Batista Regular Cidade Satélite",
+    "address": "Rua das Perdizes, Cidade Satélite",
+    "number": "s/n",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59067-480",
+    "latitude": -5.8730674,
+    "longitude": -35.2240126,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "129-p1",
+        "name": "Pr. Rubens Eduardo",
+        "phone": "(84) 9 9807-6064",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Rubens-Eduardo-Silva-2.jpg"
+      },
+      {
+        "id": "129-p2",
+        "name": "Pr. Ariel Lima",
+        "phone": "(84) 9 9419-9258",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Satelite.jpeg"
+  },
+  {
+    "id": "130",
+    "name": "Igreja Batista Regular Manancial",
+    "address": "Rua Maravilha, Neópolis",
+    "number": "06",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59086-090",
+    "latitude": -5.8639958,
+    "longitude": -35.2076003,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "130-p1",
+        "name": "Pr. Franklin Flamariom",
+        "phone": "(84) 9 8741-6612",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Flamariom.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Manancial.jpg"
+  },
+  {
+    "id": "131",
+    "name": "Igreja Batista Regular Planalto",
+    "address": "Rua Mirassol, Planalto",
+    "number": "54",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59073-220",
+    "latitude": -5.8492516,
+    "longitude": -35.2523847,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "131-p1",
+        "name": "Pr. Henrique Amuraiby",
+        "phone": "(84) 9 9641-8289",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Henrique.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Planalto.png"
+  },
+  {
+    "id": "132",
+    "name": "Igreja Batista do Alto",
+    "address": "Rua Senny Fialho, Pajaçara",
+    "number": "100",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59122-000",
+    "latitude": -5.7423567,
+    "longitude": -35.234757,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "132-p1",
+        "name": "Pr. Almir Cocentino",
+        "phone": "(84) 9 8810-3129",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Almir.jpg"
+      },
+      {
+        "id": "132-p2",
+        "name": "Pr. Carlos Jr.",
+        "phone": "(84) 9 9602-7953",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/C.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Alto.jpg"
+  },
+  {
+    "id": "133",
+    "name": "Igreja Batista Regular de Igapó",
+    "address": "Rua D. Isabel de Brito Lima, Igapó",
+    "number": "723",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59104-220",
+    "latitude": -5.7728475,
+    "longitude": -35.259564,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "133-p1",
+        "name": "Pr. José Erinaldo",
+        "phone": "(84) 9 9922-2891",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Jose-Erinaldo-Costa.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Igapo.jpeg"
+  },
+  {
+    "id": "134",
+    "name": "Igreja Batista Regular de Pajuçara",
+    "address": "Av. Moema Tinoco da C. Lima, Pajaçara",
+    "number": "3681",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59133-090",
+    "latitude": -5.7210347,
+    "longitude": -35.2451503,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "134-p1",
+        "name": "Pr. Jordão Guimarães",
+        "email": "pr.jordaogs@gmail.com",
+        "phone": "(84) 9 9661-4352",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-06-at-22.26.46.jpeg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pajucara.jpeg"
+  },
+  {
+    "id": "135",
+    "name": "Igreja Batista Regular Planície das Mangueiras",
+    "address": "Av. Maranguape, Nossa Senhora da Apresentação",
+    "number": "2650",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59114-000",
+    "latitude": -5.7489469,
+    "longitude": -35.2719499,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "135-p1",
+        "name": "Pr. Domício Dias",
+        "phone": "(75) 9 9924-3565",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Planicie-das-Mangueiras.jpg"
+  },
+  {
+    "id": "136",
+    "name": "Igreja Batista Regular Parque dos Coqueiros",
+    "address": "Rua Vale do Jaguaribe, Nossa Senhora da Apresentação",
+    "number": "92",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59115-227",
+    "latitude": -5.7581411,
+    "longitude": -35.2836315,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "136-p1",
+        "name": "Pr. Elmano Júnior",
+        "phone": "(84) 9 9155-5276",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Elmano.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pq.-dos-Coqueiros.png"
+  },
+  {
+    "id": "137",
+    "name": "Igreja Batista Regular Santa Catarina",
+    "address": "Rua Guadalupe, Potengi",
+    "number": "2020",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59112-560",
+    "latitude": -5.7577005,
+    "longitude": -35.258388,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "137-p1",
+        "name": "Pr. Walter Moraes",
+        "phone": "(84) 9 9992-9800",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Pr.-Walter.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Santa-Catarina.png"
+  },
+  {
+    "id": "138",
+    "name": "Igreja Batista Fundamentalista de Nova Cruz",
+    "address": "Rua Ind. José de Brito, São Sebastião",
+    "number": "625",
+    "city": "Nova Cruz",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59215-000",
+    "latitude": -6.4826528,
+    "longitude": -35.4334664,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "138-p1",
+        "name": "Pr. Júlio Tavares",
+        "phone": "(84) 9 9128-6709",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Julio.jpeg"
+      },
+      {
+        "id": "138-p2",
+        "name": "Pr. Ron Elly Fernandes",
+        "phone": "(84) 9 9440-5838",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Nova-Cruz.jpeg"
+  },
+  {
+    "id": "139",
+    "name": "Igreja Batista Boas Novas",
+    "address": "Rua Terezinha Francelino L. Mendes, Centro",
+    "number": "12",
+    "city": "Nísia Floresta",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59164-000",
+    "latitude": -6.090852,
+    "longitude": -35.2112008,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "139-p1",
+        "name": "Pr. José Menino",
+        "phone": "(84) 9 8806-8677",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Menino-Junior.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Nisia-Floresta.jpeg"
+  },
+  {
+    "id": "140",
+    "name": "Igreja Batista Regular de Emaús",
+    "address": "Rua Apodi, Emaús",
+    "number": "275",
+    "city": "Parnamirim",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59150-000",
+    "latitude": -5.8828513,
+    "longitude": -35.2504367,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "140-p1",
+        "name": "Pr. Victor Cosson",
+        "phone": "(84) 9 9880-4164",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Emaus_.png"
+  },
+  {
+    "id": "141",
+    "name": "Igreja Batista Regular Nova Parnamirim",
+    "address": "Rua Madre Tereza de Calcutá, Nova Parnamirim",
+    "number": "s/n",
+    "city": "Parnamirim",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59150-000",
+    "latitude": -5.8817561,
+    "longitude": -35.2067835,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "141-p1",
+        "name": "Pr. Inaldo Faustino",
+        "phone": "(84) 9 9972-6583",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Inaldo.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Nova-Parnamirim.jpeg"
+  },
+  {
+    "id": "142",
+    "name": "Igreja Batista Regular de Parnamirim",
+    "address": "Rua Felizbela Wanderley, Rosas dos Ventos",
+    "number": "64",
+    "city": "Parnamirim",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59141-385",
+    "latitude": -5.9238671,
+    "longitude": -35.2781602,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "142-p1",
+        "name": "Pr. Robério Olinto",
+        "phone": "(84) 9 9935-2222",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/roberio-Roberio-Olinto.jpeg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Parnamirim.jpeg"
+  },
+  {
+    "id": "143",
+    "name": "Igreja Evangélica Batista",
+    "address": "Av. Everaldo Breves, Centro",
+    "number": "307",
+    "city": "Parnamirim",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59150-000",
+    "latitude": -5.9175521,
+    "longitude": -35.2608726,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "143-p1",
+        "name": "Pr. Manoel Ferreira",
+        "phone": "(84) 9 9220-7777",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Manoel.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Parnamirim.png"
+  },
+  {
+    "id": "144",
+    "name": "Cong. Evangélica Batista",
+    "address": "Rua Sinedino Xavier de Oliveira, Rosa dos Ventos",
+    "number": "430",
+    "city": "Parnamirim",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59141-650",
+    "latitude": -5.9175521,
+    "longitude": -35.2608726,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "144-p1",
+        "name": "Pr. Filipe José",
+        "phone": "(84) 9 8808-8668",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png"
+  },
+  {
+    "id": "145",
+    "name": "Cong. Batista Fundamentalista em Passa e Fica",
+    "address": "Rua Ociram Damasceno Barbosa, Centro",
+    "number": "131",
+    "city": "Passa e Fica",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59218-000",
+    "latitude": -6.4334478,
+    "longitude": -35.6447803,
+    "schedule": [],
+    "pastors": [],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Passa-e-Fica.jpeg"
+  },
+  {
+    "id": "146",
+    "name": "Igreja Batista Regular em Pau dos Ferros",
+    "address": "Rua Dr. Jaime de Aquino, São Judas Tadeu",
+    "number": "S/N",
+    "city": "Pau dos Ferros",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59900-000",
+    "latitude": -6.1153648,
+    "longitude": -38.2074912,
+    "schedule": [],
+    "pastors": [],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Pau-dos-Ferros.jpeg"
+  },
+  {
+    "id": "147",
+    "name": "Congregação Batista Regular em Poço Branco",
+    "address": "Rua Nóbrega Machado, Centro",
+    "number": "s/n",
+    "city": "Poço Branco",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59560-000",
+    "latitude": -5.6212792,
+    "longitude": -35.6594962,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "147-p1",
+        "name": "Pr. Danrley Silva",
+        "phone": "(84) 9 9416-9964",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Poco-Branco.jpg"
+  },
+  {
+    "id": "148",
+    "name": "Igreja Batista Fundamentalista de Santa Cruz",
+    "address": "Rua Marechal Castelo Branco, Centro",
+    "number": "320",
+    "city": "Santa Cruz",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59200-000",
+    "latitude": -6.2327267,
+    "longitude": -36.015178,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "148-p1",
+        "name": "Pr. José Soares",
+        "phone": "(84) 9 9966-7985",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Soares.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/SantaCruz.jpg"
+  },
+  {
+    "id": "149",
+    "name": "Igreja Batista Regular Paraíso",
+    "address": "Rua Santa Luzia, Paraíso",
+    "number": "57",
+    "city": "Santa Cruz",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59200-000",
+    "latitude": -6.2261856,
+    "longitude": -36.021248,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "149-p1",
+        "name": "Pr. Maciel Augusto",
+        "email": "calvinista31@yahoo.com.br",
+        "phone": "(84) 9 9609-5459",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Maciel-Augusto.jpeg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png"
+  },
+  {
+    "id": "150",
+    "name": "Igreja Batista Fundamentalista de Sto. Antônio",
+    "address": "Rua Marechal Floriano, Centro",
+    "number": "646",
+    "city": "Santo Antônio do Salto da Onça",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59255-000",
+    "latitude": -6.3140256,
+    "longitude": -35.4851485,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "150-p1",
+        "name": "Pr. Emanuel Lins",
+        "phone": "(84) 9 9450-4642",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Emanuel.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/SantoAntonio.jpeg"
+  },
+  {
+    "id": "151",
+    "name": "Igreja Batista Fundamentalista São Bento do Trairi",
+    "address": "Rua Marechal Floriano, Centro",
+    "number": "646",
+    "city": "São Bento do Trairí",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59210-000",
+    "latitude": -6.3429442,
+    "longitude": -36.084136,
+    "schedule": [],
+    "pastors": [],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Sao-Bento-do-Trairi.jpeg"
+  },
+  {
+    "id": "152",
+    "name": "Congregação Batista Regular",
+    "address": "Rua Eng. Luciano Barros, Centro",
+    "number": "40",
+    "city": "São Gonçalo do Amarante",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59280-000",
+    "latitude": -5.7901473,
+    "longitude": -35.3080516,
+    "schedule": [],
+    "pastors": [],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Sao-Goncalo.png"
+  },
+  {
+    "id": "153",
+    "name": "Cong. Batista Regular em Serrinha",
+    "address": "Povoado de Serrinha",
+    "number": "160",
+    "city": "São Gonçalo do Amarante",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59290-000",
+    "latitude": -5.7500887,
+    "longitude": -35.4468134,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "153-p1",
+        "name": "Pr. Magno Cabral",
+        "phone": "84 9 9956-2278",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Magno.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Serrinha.jpeg"
+  },
+  {
+    "id": "154",
+    "name": "Cong. Batista Regular de Flores do Campo",
+    "address": "Rua Professor João Diniz, Flores do Campo, Jardins",
+    "number": "18",
+    "city": "São Gonçalo do Amarante",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59294-224",
+    "latitude": -5.7484536,
+    "longitude": -35.3170386,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "154-p1",
+        "name": "Pr. Davi Paes",
+        "email": "davipaes94@gmail.com",
+        "phone": "84 9 9838-2864",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Davi-Paes.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Flores-do-Campo.jpeg"
+  },
+  {
+    "id": "155",
+    "name": "Igreja Batista Regular de São José do Mipibu",
+    "address": "Rua Pref. Inácio Henrique, Centro",
+    "number": "285",
+    "city": "São José de Mipibu",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59162-000",
+    "latitude": -5.1923566,
+    "longitude": -37.3835556,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "155-p1",
+        "name": "Pr. Paulo Fernando",
+        "phone": "(84) 9 9973-3505",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Paulo-Fernando-Nascimento.jpg"
+      },
+      {
+        "id": "155-p2",
+        "name": "Pr. Pedro Quitiliano",
+        "phone": "(84) 9 9986-3840",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Pedro.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Sao-Jose-de-Mipibu.png"
+  },
+  {
+    "id": "156",
+    "name": "Cong. Batista de Taborda",
+    "address": "Rod. Gov. Mário Covas, Taborda",
+    "number": "25",
+    "city": "São José de Mipibu",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59240-000",
+    "latitude": -5.1813801,
+    "longitude": -37.3636701,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "156-p1",
+        "name": "Pr. Francisco",
+        "phone": "(84) 9 9966-2642",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
+      },
+      {
+        "id": "156-p2",
+        "name": "Pr. Davi Spink",
+        "phone": "(84) 9 9450-4138",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Davi.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png"
+  },
+  {
+    "id": "157",
+    "name": "Igreja Batista Fundamentalista de Tangará",
+    "address": "Rua José Ataíde Melo, Centro",
+    "number": "545",
+    "city": "Tangará",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59240-000",
+    "latitude": -6.2016003,
+    "longitude": -35.8031648,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "157-p1",
+        "name": "Pr. Sebastião de Sousa",
+        "phone": "(84) 9 9902-2643",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Sebastiao.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Tangara.jpeg"
+  },
+  {
+    "id": "158",
+    "name": "Igreja Batista Fundamentalista de Várzea",
+    "address": "Rua Otávio G. de Moura",
+    "number": "30",
+    "city": "Várzea",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59185-000",
+    "latitude": -6.3439955,
+    "longitude": -35.3735854,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "158-p1",
+        "name": "Pr. Adriano Mendes",
+        "phone": "(84) 9 8627-5946",
+        "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Adriano.jpg"
+      }
+    ],
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Varzea.jpeg"
+  },
+  {
+    "id": "159",
+    "name": "Igreja Batista Regular de Assis Brasil",
+    "address": "Assis Brasil",
+    "number": "Sem número",
+    "city": "Assis Brasil",
+    "state": "AC",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -10.940688,
+    "longitude": -69.565033,
+    "schedule": [],
+    "pastors": [
+      {
+        "id": "159-p1",
+        "name": "Pr. Pedro Henrique Clementino Siebra"
+      }
+    ]
+  }
+]
