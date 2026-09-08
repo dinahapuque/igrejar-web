@@ -9,7 +9,9 @@
     "country": "Brasil",
     "zipCode": "69930-000",
     "latitude": -10.654355580450076,
-    "longitude": -68.50361439085246
+    "longitude": -68.50361439085246,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "2",
@@ -21,7 +23,9 @@
     "country": "Brasil",
     "zipCode": "",
     "latitude": -9.97102331557362,
-    "longitude": -67.79127275528869
+    "longitude": -67.79127275528869,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "3",
@@ -33,7 +37,9 @@
     "country": "Brasil",
     "zipCode": "69850-000",
     "latitude": -8.7543648,
-    "longitude": -67.3960471
+    "longitude": -67.3960471,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "4",
@@ -45,7 +51,9 @@
     "country": "Brasil",
     "zipCode": "69918-198",
     "latitude": -9.964871870769972,
-    "longitude": -67.8323303543838
+    "longitude": -67.8323303543838,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "5",
@@ -57,7 +65,9 @@
     "country": "Brasil",
     "zipCode": "69909-000",
     "latitude": -9.957097226645743,
-    "longitude": -67.7987161662627
+    "longitude": -67.7987161662627,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "6",
@@ -69,7 +79,9 @@
     "country": "Brasil",
     "zipCode": "69921-198",
     "latitude": -9.93305392417697,
-    "longitude": -67.82490343538723
+    "longitude": -67.82490343538723,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "7",
@@ -81,7 +93,9 @@
     "country": "Brasil",
     "zipCode": "69912-700",
     "latitude": -9.95224573596304,
-    "longitude": -67.84103494092233
+    "longitude": -67.84103494092233,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "8",
@@ -93,7 +107,9 @@
     "country": "Brasil",
     "zipCode": "69960-000",
     "latitude": -8.16853805331407,
-    "longitude": -70.35551794221077
+    "longitude": -70.35551794221077,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "9",
@@ -105,7 +121,9 @@
     "country": "Brasil",
     "zipCode": "69909-230",
     "latitude": -9.964686272914488,
-    "longitude": -67.80595561607745
+    "longitude": -67.80595561607745,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "10",
@@ -117,7 +135,9 @@
     "country": "Brasil",
     "zipCode": "69914-320",
     "latitude": -9.97758702354888,
-    "longitude": -67.88616992053649
+    "longitude": -67.88616992053649,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "11",
@@ -129,7 +149,9 @@
     "country": "Brasil",
     "zipCode": "69904-410",
     "latitude": -9.946297473721096,
-    "longitude": -67.88483467046619
+    "longitude": -67.88483467046619,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "12",
@@ -141,7 +163,9 @@
     "country": "Brasil",
     "zipCode": "69903-420",
     "latitude": -9.977662679429589,
-    "longitude": -67.8238215038589
+    "longitude": -67.8238215038589,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "13",
@@ -153,7 +177,9 @@
     "country": "Brasil",
     "zipCode": "69903-705",
     "latitude": -9.997381588951468,
-    "longitude": -67.81746183290103
+    "longitude": -67.81746183290103,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "14",
@@ -165,7 +191,9 @@
     "country": "Brasil",
     "zipCode": "69906-320",
     "latitude": -9.973943323174185,
-    "longitude": -67.84117340671989
+    "longitude": -67.84117340671989,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "15",
@@ -177,7 +205,9 @@
     "country": "Brasil",
     "zipCode": "69911-470",
     "latitude": -9.982576213190034,
-    "longitude": -67.83343860026339
+    "longitude": -67.83343860026339,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "16",
@@ -189,7 +219,9 @@
     "country": "Brasil",
     "zipCode": "69919-775",
     "latitude": -9.948930414144222,
-    "longitude": -67.85328333332123
+    "longitude": -67.85328333332123,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "18",
@@ -201,7 +233,9 @@
     "country": "Brasil",
     "zipCode": "69900-120",
     "latitude": -9.97427845547404,
-    "longitude": -67.80700422857188
+    "longitude": -67.80700422857188,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "19",
@@ -213,7 +247,9 @@
     "country": "Brasil",
     "zipCode": "69940-000",
     "latitude": -9.067120596534703,
-    "longitude": -68.65607809888968
+    "longitude": -68.65607809888968,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "20",
@@ -225,7 +261,9 @@
     "country": "Brasil",
     "zipCode": "69902-756",
     "latitude": -9.94577826347079,
-    "longitude": -67.80997735928932
+    "longitude": -67.80997735928932,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "21",
@@ -237,7 +275,9 @@
     "country": "Brasil",
     "zipCode": "69970-000",
     "latitude": -8.158991485193038,
-    "longitude": -70.76309310681283
+    "longitude": -70.76309310681283,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "22",
@@ -249,7 +289,9 @@
     "country": "Brasil",
     "zipCode": "63360-000",
     "latitude": -6.973615083848536,
-    "longitude": -38.97004314654583
+    "longitude": -38.97004314654583,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "23",
@@ -261,7 +303,9 @@
     "country": "Brasil",
     "zipCode": "63360-000",
     "latitude": -6.942921306992328,
-    "longitude": -38.97648620458414
+    "longitude": -38.97648620458414,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "24",
@@ -273,7 +317,9 @@
     "country": "Brasil",
     "zipCode": "63180-000",
     "latitude": -7.315117755133636,
-    "longitude": -39.29811622429472
+    "longitude": -39.29811622429472,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "25",
@@ -285,7 +331,9 @@
     "country": "Brasil",
     "zipCode": "63180-000",
     "latitude": -7.310801684068818,
-    "longitude": -39.30450077332183
+    "longitude": -39.30450077332183,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "26",
@@ -297,7 +345,9 @@
     "country": "Brasil",
     "zipCode": "63260-000",
     "latitude": -7.491093479707288,
-    "longitude": -38.98477543325949
+    "longitude": -38.98477543325949,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "27",
@@ -309,7 +359,9 @@
     "country": "Brasil",
     "zipCode": "63100-000",
     "latitude": -7.231389092763223,
-    "longitude": -39.40687617669057
+    "longitude": -39.40687617669057,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "28",
@@ -321,7 +373,9 @@
     "country": "Brasil",
     "zipCode": "63119-340",
     "latitude": -7.223628566301874,
-    "longitude": -39.406966464253266
+    "longitude": -39.406966464253266,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "29",
@@ -333,7 +387,9 @@
     "country": "Brasil",
     "zipCode": "63100-000",
     "latitude": -7.234225537347116,
-    "longitude": -39.4216276055263
+    "longitude": -39.4216276055263,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "30",
@@ -345,7 +401,9 @@
     "country": "Brasil",
     "zipCode": "63110-140",
     "latitude": -7.245683304317251,
-    "longitude": -39.43080400977045
+    "longitude": -39.43080400977045,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "31",
@@ -357,7 +415,9 @@
     "country": "Brasil",
     "zipCode": "60100-000",
     "latitude": -7.22948655258144,
-    "longitude": -39.38564099812732
+    "longitude": -39.38564099812732,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "32",
@@ -369,7 +429,9 @@
     "country": "Brasil",
     "zipCode": "63185-000",
     "latitude": -6.929905333527857,
-    "longitude": -39.573276199981834
+    "longitude": -39.573276199981834,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "33",
@@ -381,7 +443,9 @@
     "country": "Brasil",
     "zipCode": "63050-190",
     "latitude": -7.21385497323208,
-    "longitude": -39.32735802032441
+    "longitude": -39.32735802032441,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "34",
@@ -393,7 +457,9 @@
     "country": "Brasil",
     "zipCode": "63011-970",
     "latitude": -7.21302143853555,
-    "longitude": -39.321034496277896
+    "longitude": -39.321034496277896,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "35",
@@ -405,7 +471,9 @@
     "country": "Brasil",
     "zipCode": "63024-772",
     "latitude": -7.226188015172427,
-    "longitude": -39.35152595371881
+    "longitude": -39.35152595371881,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "36",
@@ -417,7 +485,9 @@
     "country": "Brasil",
     "zipCode": "63041-080",
     "latitude": -7.2292573783179055,
-    "longitude": -39.32835500607123
+    "longitude": -39.32835500607123,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "37",
@@ -429,7 +499,9 @@
     "country": "Brasil",
     "zipCode": "63049-030",
     "latitude": -7.236305125176737,
-    "longitude": -39.297699325113285
+    "longitude": -39.297699325113285,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "38",
@@ -441,7 +513,9 @@
     "country": "Brasil",
     "zipCode": "63011-970",
     "latitude": -7.206781435022062,
-    "longitude": -39.316487682785045
+    "longitude": -39.316487682785045,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "39",
@@ -453,7 +527,9 @@
     "country": "Brasil",
     "zipCode": "63010-000",
     "latitude": -7.20320277456697,
-    "longitude": -39.27240110792137
+    "longitude": -39.27240110792137,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "40",
@@ -465,7 +541,9 @@
     "country": "Brasil",
     "zipCode": "63100-970",
     "latitude": -7.228397824480528,
-    "longitude": -39.295527682784716
+    "longitude": -39.295527682784716,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "41",
@@ -477,7 +555,9 @@
     "country": "Brasil",
     "zipCode": "63050-330",
     "latitude": -7.220535217760875,
-    "longitude": -39.31461209442804
+    "longitude": -39.31461209442804,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "42",
@@ -489,7 +569,9 @@
     "country": "Brasil",
     "zipCode": "63020-325",
     "latitude": -7.212201769904491,
-    "longitude": -39.309465705526634
+    "longitude": -39.309465705526634,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "43",
@@ -501,7 +583,9 @@
     "country": "Brasil",
     "zipCode": "63043-810",
     "latitude": -7.253195768785695,
-    "longitude": -39.335084079869915
+    "longitude": -39.335084079869915,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "44",
@@ -513,7 +597,9 @@
     "country": "Brasil",
     "zipCode": "63210-000",
     "latitude": -7.390363977880781,
-    "longitude": -38.774408392575516
+    "longitude": -38.774408392575516,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "45",
@@ -525,7 +611,9 @@
     "country": "Brasil",
     "zipCode": "63210-000",
     "latitude": -7.303256410414365,
-    "longitude": -38.80624484654583
+    "longitude": -38.80624484654583,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "46",
@@ -537,7 +625,9 @@
     "country": "Brasil",
     "zipCode": "63250-000",
     "latitude": -7.314002137348311,
-    "longitude": -38.94238290422003
+    "longitude": -38.94238290422003,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "47",
@@ -549,7 +639,9 @@
     "country": "Brasil",
     "zipCode": "60851-220",
     "latitude": -3.764938733557754,
-    "longitude": -38.51701788369374
+    "longitude": -38.51701788369374,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "48",
@@ -561,7 +653,9 @@
     "country": "Brasil",
     "zipCode": "60861-710",
     "latitude": -3.811962594189281,
-    "longitude": -38.52381061051317
+    "longitude": -38.52381061051317,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "49",
@@ -573,7 +667,9 @@
     "country": "Brasil",
     "zipCode": "60190-600",
     "latitude": -3.7501013838770607,
-    "longitude": -38.472491483013975
+    "longitude": -38.472491483013975,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "50",
@@ -585,7 +681,9 @@
     "country": "Brasil",
     "zipCode": "60833-172",
     "latitude": -3.7903821388528036,
-    "longitude": -38.476774216076976
+    "longitude": -38.476774216076976,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "51",
@@ -597,7 +695,9 @@
     "country": "Brasil",
     "zipCode": "60533-622",
     "latitude": -3.762444593408341,
-    "longitude": -38.602353449131975
+    "longitude": -38.602353449131975,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "52",
@@ -609,7 +709,9 @@
     "country": "Brasil",
     "zipCode": "60870-130",
     "latitude": -3.844156383430471,
-    "longitude": -38.52448557189452
+    "longitude": -38.52448557189452,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "53",
@@ -621,7 +723,9 @@
     "country": "Brasil",
     "zipCode": "60831-410",
     "latitude": -3.832306989562466,
-    "longitude": -38.4612152356404
+    "longitude": -38.4612152356404,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "54",
@@ -633,7 +737,9 @@
     "country": "Brasil",
     "zipCode": "60170-002",
     "latitude": -3.7488894963050674,
-    "longitude": -38.50186622400463
+    "longitude": -38.50186622400463,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "55",
@@ -645,7 +751,9 @@
     "country": "Brasil",
     "zipCode": "",
     "latitude": -3.743530995195901,
-    "longitude": -38.46417525098669
+    "longitude": -38.46417525098669,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "56",
@@ -657,7 +765,9 @@
     "country": "Brasil",
     "zipCode": "60540-469",
     "latitude": -3.777031903386022,
-    "longitude": -38.60859935931729
+    "longitude": -38.60859935931729,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "57",
@@ -669,7 +779,9 @@
     "country": "Brasil",
     "zipCode": "60340-045",
     "latitude": -3.7223615534834282,
-    "longitude": -38.58510904169218
+    "longitude": -38.58510904169218,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "58",
@@ -681,7 +793,9 @@
     "country": "Brasil",
     "zipCode": "60545-455",
     "latitude": -3.7740358917082064,
-    "longitude": -38.59005994582641
+    "longitude": -38.59005994582641,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "59",
@@ -693,7 +807,9 @@
     "country": "Brasil",
     "zipCode": "60741-600",
     "latitude": -3.8314633862894087,
-    "longitude": -38.56056460596757
+    "longitude": -38.56056460596757,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "60",
@@ -705,7 +821,9 @@
     "country": "Brasil",
     "zipCode": "60841-170",
     "latitude": -3.8228757214018594,
-    "longitude": -38.486556021692365
+    "longitude": -38.486556021692365,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "61",
@@ -717,7 +835,9 @@
     "country": "Brasil",
     "zipCode": "60420-630",
     "latitude": -3.764871459866764,
-    "longitude": -38.549584144913325
+    "longitude": -38.549584144913325,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "62",
@@ -729,7 +849,9 @@
     "country": "Brasil",
     "zipCode": "60175-480",
     "latitude": -3.724982872866201,
-    "longitude": -38.47994117375022
+    "longitude": -38.47994117375022,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "63",
@@ -741,7 +863,9 @@
     "country": "Brasil",
     "zipCode": "60762-800",
     "latitude": -3.8188733658427814,
-    "longitude": -38.5929686700403
+    "longitude": -38.5929686700403,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "64",
@@ -753,7 +877,9 @@
     "country": "Brasil",
     "zipCode": "60740-730",
     "latitude": -3.7846036330735333,
-    "longitude": -38.57873132771326
+    "longitude": -38.57873132771326,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "65",
@@ -765,7 +891,9 @@
     "country": "Brasil",
     "zipCode": "60810-670",
     "latitude": -3.8531948411198336,
-    "longitude": -38.48175876076763
+    "longitude": -38.48175876076763,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "66",
@@ -777,7 +905,9 @@
     "country": "Brasil",
     "zipCode": "60736-130",
     "latitude": -3.808168918970755,
-    "longitude": -38.60816830865871
+    "longitude": -38.60816830865871,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "67",
@@ -789,7 +919,9 @@
     "country": "Brasil",
     "zipCode": "60741-040",
     "latitude": -3.7810645029985173,
-    "longitude": -38.55072896818617
+    "longitude": -38.55072896818617,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "68",
@@ -801,7 +933,9 @@
     "country": "Brasil",
     "zipCode": "60720-121",
     "latitude": -3.78183504930441,
-    "longitude": -38.572412230724765
+    "longitude": -38.572412230724765,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "69",
@@ -813,7 +947,9 @@
     "country": "Brasil",
     "zipCode": "62840-000",
     "latitude": -4.182699292412607,
-    "longitude": -38.12878079701854
+    "longitude": -38.12878079701854,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "70",
@@ -825,7 +961,9 @@
     "country": "Brasil",
     "zipCode": "61620-250",
     "latitude": -3.6689079703417686,
-    "longitude": -38.675767737894276
+    "longitude": -38.675767737894276,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "71",
@@ -837,7 +975,9 @@
     "country": "Brasil",
     "zipCode": "61760-000",
     "latitude": -3.8319505397866456,
-    "longitude": -38.456990856399635
+    "longitude": -38.456990856399635,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "72",
@@ -849,7 +989,9 @@
     "country": "Brasil",
     "zipCode": "61905-570",
     "latitude": -3.8658094076371077,
-    "longitude": -38.62243148960385
+    "longitude": -38.62243148960385,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "73",
@@ -861,7 +1003,9 @@
     "country": "Brasil",
     "zipCode": "61900-510",
     "latitude": -3.8767447146747602,
-    "longitude": -38.613097468185316
+    "longitude": -38.613097468185316,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "74",
@@ -873,7 +1017,9 @@
     "country": "Brasil",
     "zipCode": "61936-220",
     "latitude": -3.8404433771505166,
-    "longitude": -38.59128648116711
+    "longitude": -38.59128648116711,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "75",
@@ -885,7 +1031,9 @@
     "country": "Brasil",
     "zipCode": "61903-010",
     "latitude": -3.8778009054436184,
-    "longitude": -38.59588331266298
+    "longitude": -38.59588331266298,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "76",
@@ -897,7 +1045,9 @@
     "country": "Brasil",
     "zipCode": "61921-285",
     "latitude": -3.8449629977243345,
-    "longitude": -38.61279169702197
+    "longitude": -38.61279169702197,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "77",
@@ -909,7 +1059,9 @@
     "country": "Brasil",
     "zipCode": "61880-000",
     "latitude": -3.9078619571568525,
-    "longitude": -38.510799766330564
+    "longitude": -38.510799766330564,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "78",
@@ -921,7 +1073,9 @@
     "country": "Brasil",
     "zipCode": "63430-000",
     "latitude": -6.3997158061539,
-    "longitude": -38.86128061048412
+    "longitude": -38.86128061048412,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "79",
@@ -933,7 +1087,9 @@
     "country": "Brasil",
     "zipCode": "63430-000",
     "latitude": -6.40658506709696,
-    "longitude": -38.95195103450425
+    "longitude": -38.95195103450425,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "80",
@@ -945,7 +1101,9 @@
     "country": "Brasil",
     "zipCode": "63500-053",
     "latitude": -6.362613501389255,
-    "longitude": -39.298499517902606
+    "longitude": -39.298499517902606,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "81",
@@ -957,7 +1115,9 @@
     "country": "Brasil",
     "zipCode": "63504-115",
     "latitude": -6.3669916898350545,
-    "longitude": -39.30832095466626
+    "longitude": -39.30832095466626,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "82",
@@ -969,7 +1129,9 @@
     "country": "Brasil",
     "zipCode": "63580-000",
     "latitude": -6.521130083342483,
-    "longitude": -39.52745006259183
+    "longitude": -39.52745006259183,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "83",
@@ -981,7 +1143,9 @@
     "country": "Brasil",
     "zipCode": "63580-000",
     "latitude": -6.448421245928639,
-    "longitude": -39.444630962400836
+    "longitude": -39.444630962400836,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "84",
@@ -993,7 +1157,9 @@
     "country": "Brasil",
     "zipCode": "63520-000",
     "latitude": -6.339595242352506,
-    "longitude": -38.9841863446301
+    "longitude": -38.9841863446301,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "85",
@@ -1005,7 +1171,9 @@
     "country": "Brasil",
     "zipCode": "63520-000",
     "latitude": -6.240106679996668,
-    "longitude": -38.913170196995274
+    "longitude": -38.913170196995274,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "86",
@@ -1017,7 +1185,9 @@
     "country": "Brasil",
     "zipCode": "63525-000",
     "latitude": -6.32869200916475,
-    "longitude": -39.01617269260576
+    "longitude": -39.01617269260576,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "87",
@@ -1029,7 +1199,9 @@
     "country": "Brasil",
     "zipCode": "63540-000",
     "latitude": -6.8282152548643085,
-    "longitude": -39.451210445387765
+    "longitude": -39.451210445387765,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "88",
@@ -1041,7 +1213,9 @@
     "country": "Brasil",
     "zipCode": "63540-000",
     "latitude": -6.794490797201569,
-    "longitude": -39.301649469791364
+    "longitude": -39.301649469791364,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "89",
@@ -1053,7 +1227,9 @@
     "country": "Brasil",
     "zipCode": "63575-000",
     "latitude": -6.568836300605687,
-    "longitude": -40.122320989573126
+    "longitude": -40.122320989573126,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "90",
@@ -1065,7 +1241,9 @@
     "country": "Brasil",
     "zipCode": "63150-000",
     "latitude": -7.076248158190424,
-    "longitude": -40.36992559815637
+    "longitude": -40.36992559815637,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "91",
@@ -1077,7 +1255,9 @@
     "country": "Brasil",
     "zipCode": "63150-000",
     "latitude": -6.826832493163565,
-    "longitude": -40.30173080383496
+    "longitude": -40.30173080383496,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "92",
@@ -1089,7 +1269,9 @@
     "country": "Brasil",
     "zipCode": "63590-000",
     "latitude": -6.532641819559273,
-    "longitude": -39.90220043319096
+    "longitude": -39.90220043319096,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "93",
@@ -1101,7 +1283,9 @@
     "country": "Brasil",
     "zipCode": "63660-000",
     "latitude": -6.005854374836181,
-    "longitude": -40.29092265467076
+    "longitude": -40.29092265467076,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "94",
@@ -1113,7 +1297,9 @@
     "country": "Brasil",
     "zipCode": "62800-000",
     "latitude": -4.56691339475755,
-    "longitude": -37.76869686632371
+    "longitude": -37.76869686632371,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "95",
@@ -1125,7 +1311,9 @@
     "country": "Brasil",
     "zipCode": "62800-000",
     "latitude": -4.566966868615879,
-    "longitude": -37.76873978166912
+    "longitude": -37.76873978166912,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "96",
@@ -1137,7 +1325,9 @@
     "country": "Brasil",
     "zipCode": "62900-000",
     "latitude": -4.938246748890921,
-    "longitude": -37.97587991421062
+    "longitude": -37.97587991421062,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "97",
@@ -1149,7 +1339,9 @@
     "country": "Brasil",
     "zipCode": "63870-000",
     "latitude": -5.126289477865689,
-    "longitude": -39.73472150308178
+    "longitude": -39.73472150308178,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "98",
@@ -1161,7 +1353,9 @@
     "country": "Brasil",
     "zipCode": "63870-000",
     "latitude": -4.8890353,
-    "longitude": -39.7355154
+    "longitude": -39.7355154,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "99",
@@ -1173,7 +1367,9 @@
     "country": "Brasil",
     "zipCode": "63900-000",
     "latitude": -4.968250858721722,
-    "longitude": -39.01893756767046
+    "longitude": -39.01893756767046,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "100",
@@ -1185,7 +1381,9 @@
     "country": "Brasil",
     "zipCode": "63800-000",
     "latitude": -5.195124867038202,
-    "longitude": -39.295851395011425
+    "longitude": -39.295851395011425,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "101",
@@ -1197,7 +1395,9 @@
     "country": "Brasil",
     "zipCode": "63600-000",
     "latitude": -5.591335283139537,
-    "longitude": -39.37477118509349
+    "longitude": -39.37477118509349,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "102",
@@ -1209,7 +1409,9 @@
     "country": "Brasil",
     "zipCode": "62023-070",
     "latitude": -3.688363045140508,
-    "longitude": -40.360129532014994
+    "longitude": -40.360129532014994,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "103",
@@ -1221,7 +1423,9 @@
     "country": "Brasil",
     "zipCode": "62320-000",
     "latitude": -3.726609133442078,
-    "longitude": -40.99414894796069
+    "longitude": -40.99414894796069,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "104",
@@ -1233,7 +1437,9 @@
     "country": "Brasil",
     "zipCode": "61880-000",
     "latitude": -3.9078619571568525,
-    "longitude": -38.510799766330564
+    "longitude": -38.510799766330564,
+    "schedule": [],
+    "pastors": []
   },
   {
     "id": "105",

@@ -17,7 +17,7 @@ export type ChurchType = {
   zipCode: string;
   latitude: number;
   longitude: number;
-  pastors?: PastorType[];
+  pastors: PastorType[];
   imageUrl?: string;
 };
 

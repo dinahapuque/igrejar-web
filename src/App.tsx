@@ -93,7 +93,7 @@ function App() {
                   {' — '}
                   {church.city} - {church.state}
                 </p>
-                {church.pastors && church.pastors.length > 0 && (
+                {church.pastors.length > 0 && (
                   <p className="pastors">
                     Pastor(es): {church.pastors.map(p => p.name).join(', ')}
                   </p>
