@@ -11,7 +11,11 @@
     "latitude": -10.654355580450076,
     "longitude": -68.50361439085246,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "2",
@@ -25,7 +29,11 @@
     "latitude": -9.97102331557362,
     "longitude": -67.79127275528869,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "3",
@@ -39,7 +47,11 @@
     "latitude": -8.7543648,
     "longitude": -67.3960471,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "4",
@@ -53,7 +65,11 @@
     "latitude": -9.964871870769972,
     "longitude": -67.8323303543838,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "5",
@@ -67,7 +83,11 @@
     "latitude": -9.957097226645743,
     "longitude": -67.7987161662627,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "6",
@@ -81,7 +101,11 @@
     "latitude": -9.93305392417697,
     "longitude": -67.82490343538723,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "7",
@@ -95,7 +119,11 @@
     "latitude": -9.95224573596304,
     "longitude": -67.84103494092233,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "8",
@@ -109,7 +137,11 @@
     "latitude": -8.16853805331407,
     "longitude": -70.35551794221077,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "9",
@@ -123,7 +155,11 @@
     "latitude": -9.964686272914488,
     "longitude": -67.80595561607745,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "10",
@@ -137,7 +173,11 @@
     "latitude": -9.97758702354888,
     "longitude": -67.88616992053649,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "11",
@@ -151,7 +191,11 @@
     "latitude": -9.946297473721096,
     "longitude": -67.88483467046619,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "12",
@@ -165,7 +209,11 @@
     "latitude": -9.977662679429589,
     "longitude": -67.8238215038589,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "13",
@@ -179,7 +227,11 @@
     "latitude": -9.997381588951468,
     "longitude": -67.81746183290103,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "14",
@@ -193,7 +245,11 @@
     "latitude": -9.973943323174185,
     "longitude": -67.84117340671989,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "15",
@@ -207,7 +263,11 @@
     "latitude": -9.982576213190034,
     "longitude": -67.83343860026339,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "16",
@@ -221,7 +281,11 @@
     "latitude": -9.948930414144222,
     "longitude": -67.85328333332123,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "18",
@@ -235,7 +299,11 @@
     "latitude": -9.97427845547404,
     "longitude": -67.80700422857188,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "19",
@@ -249,7 +317,11 @@
     "latitude": -9.067120596534703,
     "longitude": -68.65607809888968,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "20",
@@ -263,7 +335,11 @@
     "latitude": -9.94577826347079,
     "longitude": -67.80997735928932,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "21",
@@ -277,7 +353,9 @@
     "latitude": -8.158991485193038,
     "longitude": -70.76309310681283,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": true,
+    "associations": []
   },
   {
     "id": "22",
@@ -291,7 +369,9 @@
     "latitude": -6.973615083848536,
     "longitude": -38.97004314654583,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "23",
@@ -305,7 +385,9 @@
     "latitude": -6.942921306992328,
     "longitude": -38.97648620458414,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "24",
@@ -319,7 +401,11 @@
     "latitude": -7.315117755133636,
     "longitude": -39.29811622429472,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "25",
@@ -333,7 +419,11 @@
     "latitude": -7.310801684068818,
     "longitude": -39.30450077332183,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "26",
@@ -347,7 +437,11 @@
     "latitude": -7.491093479707288,
     "longitude": -38.98477543325949,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "27",
@@ -361,7 +455,11 @@
     "latitude": -7.231389092763223,
     "longitude": -39.40687617669057,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "28",
@@ -375,7 +473,11 @@
     "latitude": -7.223628566301874,
     "longitude": -39.406966464253266,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "29",
@@ -389,7 +491,11 @@
     "latitude": -7.234225537347116,
     "longitude": -39.4216276055263,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "30",
@@ -403,7 +509,11 @@
     "latitude": -7.245683304317251,
     "longitude": -39.43080400977045,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "31",
@@ -417,7 +527,11 @@
     "latitude": -7.22948655258144,
     "longitude": -39.38564099812732,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "32",
@@ -431,7 +545,11 @@
     "latitude": -6.929905333527857,
     "longitude": -39.573276199981834,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "33",
@@ -445,7 +563,11 @@
     "latitude": -7.21385497323208,
     "longitude": -39.32735802032441,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "34",
@@ -459,7 +581,11 @@
     "latitude": -7.21302143853555,
     "longitude": -39.321034496277896,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "35",
@@ -473,7 +599,11 @@
     "latitude": -7.226188015172427,
     "longitude": -39.35152595371881,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "36",
@@ -487,7 +617,11 @@
     "latitude": -7.2292573783179055,
     "longitude": -39.32835500607123,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "37",
@@ -501,7 +635,11 @@
     "latitude": -7.236305125176737,
     "longitude": -39.297699325113285,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "38",
@@ -515,7 +653,11 @@
     "latitude": -7.206781435022062,
     "longitude": -39.316487682785045,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "39",
@@ -529,7 +671,11 @@
     "latitude": -7.20320277456697,
     "longitude": -39.27240110792137,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "40",
@@ -543,7 +689,11 @@
     "latitude": -7.228397824480528,
     "longitude": -39.295527682784716,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "41",
@@ -557,7 +707,11 @@
     "latitude": -7.220535217760875,
     "longitude": -39.31461209442804,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "42",
@@ -571,7 +725,11 @@
     "latitude": -7.212201769904491,
     "longitude": -39.309465705526634,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "43",
@@ -585,7 +743,11 @@
     "latitude": -7.253195768785695,
     "longitude": -39.335084079869915,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "44",
@@ -599,7 +761,11 @@
     "latitude": -7.390363977880781,
     "longitude": -38.774408392575516,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "45",
@@ -613,7 +779,11 @@
     "latitude": -7.303256410414365,
     "longitude": -38.80624484654583,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "46",
@@ -627,7 +797,11 @@
     "latitude": -7.314002137348311,
     "longitude": -38.94238290422003,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "47",
@@ -641,7 +815,9 @@
     "latitude": -3.764938733557754,
     "longitude": -38.51701788369374,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "48",
@@ -655,7 +831,9 @@
     "latitude": -3.811962594189281,
     "longitude": -38.52381061051317,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "49",
@@ -669,7 +847,9 @@
     "latitude": -3.7501013838770607,
     "longitude": -38.472491483013975,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "50",
@@ -683,7 +863,9 @@
     "latitude": -3.7903821388528036,
     "longitude": -38.476774216076976,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "51",
@@ -697,7 +879,9 @@
     "latitude": -3.762444593408341,
     "longitude": -38.602353449131975,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "52",
@@ -711,7 +895,9 @@
     "latitude": -3.844156383430471,
     "longitude": -38.52448557189452,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "53",
@@ -725,7 +911,9 @@
     "latitude": -3.832306989562466,
     "longitude": -38.4612152356404,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "54",
@@ -739,7 +927,9 @@
     "latitude": -3.7488894963050674,
     "longitude": -38.50186622400463,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "55",
@@ -753,7 +943,9 @@
     "latitude": -3.743530995195901,
     "longitude": -38.46417525098669,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "56",
@@ -767,7 +959,11 @@
     "latitude": -3.777031903386022,
     "longitude": -38.60859935931729,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "57",
@@ -781,7 +977,9 @@
     "latitude": -3.7223615534834282,
     "longitude": -38.58510904169218,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "58",
@@ -795,7 +993,11 @@
     "latitude": -3.7740358917082064,
     "longitude": -38.59005994582641,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "59",
@@ -809,7 +1011,9 @@
     "latitude": -3.8314633862894087,
     "longitude": -38.56056460596757,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "60",
@@ -823,7 +1027,11 @@
     "latitude": -3.8228757214018594,
     "longitude": -38.486556021692365,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "61",
@@ -837,7 +1045,11 @@
     "latitude": -3.764871459866764,
     "longitude": -38.549584144913325,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "62",
@@ -851,7 +1063,11 @@
     "latitude": -3.724982872866201,
     "longitude": -38.47994117375022,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "63",
@@ -865,7 +1081,9 @@
     "latitude": -3.8188733658427814,
     "longitude": -38.5929686700403,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "64",
@@ -879,7 +1097,9 @@
     "latitude": -3.7846036330735333,
     "longitude": -38.57873132771326,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "65",
@@ -893,7 +1113,9 @@
     "latitude": -3.8531948411198336,
     "longitude": -38.48175876076763,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "66",
@@ -907,7 +1129,9 @@
     "latitude": -3.808168918970755,
     "longitude": -38.60816830865871,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "67",
@@ -921,7 +1145,9 @@
     "latitude": -3.7810645029985173,
     "longitude": -38.55072896818617,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "68",
@@ -935,7 +1161,9 @@
     "latitude": -3.78183504930441,
     "longitude": -38.572412230724765,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "69",
@@ -949,7 +1177,11 @@
     "latitude": -4.182699292412607,
     "longitude": -38.12878079701854,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "70",
@@ -963,7 +1195,9 @@
     "latitude": -3.6689079703417686,
     "longitude": -38.675767737894276,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "71",
@@ -977,7 +1211,9 @@
     "latitude": -3.8319505397866456,
     "longitude": -38.456990856399635,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "72",
@@ -991,7 +1227,9 @@
     "latitude": -3.8658094076371077,
     "longitude": -38.62243148960385,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "73",
@@ -1005,7 +1243,9 @@
     "latitude": -3.8767447146747602,
     "longitude": -38.613097468185316,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "74",
@@ -1019,7 +1259,9 @@
     "latitude": -3.8404433771505166,
     "longitude": -38.59128648116711,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "75",
@@ -1033,7 +1275,9 @@
     "latitude": -3.8778009054436184,
     "longitude": -38.59588331266298,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "76",
@@ -1047,7 +1291,11 @@
     "latitude": -3.8449629977243345,
     "longitude": -38.61279169702197,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "77",
@@ -1061,7 +1309,9 @@
     "latitude": -3.9078619571568525,
     "longitude": -38.510799766330564,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "78",
@@ -1075,7 +1325,11 @@
     "latitude": -6.3997158061539,
     "longitude": -38.86128061048412,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "79",
@@ -1089,7 +1343,11 @@
     "latitude": -6.40658506709696,
     "longitude": -38.95195103450425,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "80",
@@ -1103,7 +1361,11 @@
     "latitude": -6.362613501389255,
     "longitude": -39.298499517902606,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "81",
@@ -1117,7 +1379,11 @@
     "latitude": -6.3669916898350545,
     "longitude": -39.30832095466626,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "82",
@@ -1131,7 +1397,11 @@
     "latitude": -6.521130083342483,
     "longitude": -39.52745006259183,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "83",
@@ -1145,7 +1415,11 @@
     "latitude": -6.448421245928639,
     "longitude": -39.444630962400836,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "84",
@@ -1159,7 +1433,11 @@
     "latitude": -6.339595242352506,
     "longitude": -38.9841863446301,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "85",
@@ -1173,7 +1451,11 @@
     "latitude": -6.240106679996668,
     "longitude": -38.913170196995274,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "86",
@@ -1187,7 +1469,11 @@
     "latitude": -6.32869200916475,
     "longitude": -39.01617269260576,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "87",
@@ -1201,7 +1487,11 @@
     "latitude": -6.8282152548643085,
     "longitude": -39.451210445387765,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "88",
@@ -1215,7 +1505,11 @@
     "latitude": -6.794490797201569,
     "longitude": -39.301649469791364,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "89",
@@ -1229,7 +1523,11 @@
     "latitude": -6.568836300605687,
     "longitude": -40.122320989573126,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "90",
@@ -1243,7 +1541,11 @@
     "latitude": -7.076248158190424,
     "longitude": -40.36992559815637,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "91",
@@ -1257,7 +1559,11 @@
     "latitude": -6.826832493163565,
     "longitude": -40.30173080383496,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "92",
@@ -1271,7 +1577,9 @@
     "latitude": -6.532641819559273,
     "longitude": -39.90220043319096,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "93",
@@ -1285,7 +1593,11 @@
     "latitude": -6.005854374836181,
     "longitude": -40.29092265467076,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "94",
@@ -1299,7 +1611,11 @@
     "latitude": -4.56691339475755,
     "longitude": -37.76869686632371,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "95",
@@ -1313,7 +1629,9 @@
     "latitude": -4.566966868615879,
     "longitude": -37.76873978166912,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "96",
@@ -1327,7 +1645,11 @@
     "latitude": -4.938246748890921,
     "longitude": -37.97587991421062,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "97",
@@ -1341,7 +1663,11 @@
     "latitude": -5.126289477865689,
     "longitude": -39.73472150308178,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "98",
@@ -1355,7 +1681,11 @@
     "latitude": -4.8890353,
     "longitude": -39.7355154,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "99",
@@ -1369,7 +1699,11 @@
     "latitude": -4.968250858721722,
     "longitude": -39.01893756767046,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "100",
@@ -1383,7 +1717,11 @@
     "latitude": -5.195124867038202,
     "longitude": -39.295851395011425,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "101",
@@ -1397,7 +1735,11 @@
     "latitude": -5.591335283139537,
     "longitude": -39.37477118509349,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "102",
@@ -1411,7 +1753,11 @@
     "latitude": -3.688363045140508,
     "longitude": -40.360129532014994,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "103",
@@ -1425,7 +1771,11 @@
     "latitude": -3.726609133442078,
     "longitude": -40.99414894796069,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": [
+      "AIBREB"
+    ]
   },
   {
     "id": "104",
@@ -1439,7 +1789,9 @@
     "latitude": -3.9078619571568525,
     "longitude": -38.510799766330564,
     "schedule": [],
-    "pastors": []
+    "pastors": [],
+    "verified": false,
+    "associations": []
   },
   {
     "id": "105",
@@ -1462,7 +1814,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Charles-Bronson-Aquino-do-Nascimento.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "106",
@@ -1484,7 +1840,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Jerry.jpeg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Assu.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Assu.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "107",
@@ -1506,7 +1867,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Laercio.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Brejinho.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Brejinho.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "108",
@@ -1535,7 +1901,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Francisco-Medeiros.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Caico.jpg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Caico.jpg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "109",
@@ -1557,7 +1928,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Iranildo.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Campo-Redondo.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Campo-Redondo.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "110",
@@ -1579,7 +1955,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Iranildo.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Malhada-Vermelha.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Malhada-Vermelha.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "111",
@@ -1601,7 +1982,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Iranildo.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "112",
@@ -1623,7 +2008,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Carnaubais.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Carnaubais.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "113",
@@ -1638,7 +2028,12 @@
     "longitude": -35.4185029,
     "schedule": [],
     "pastors": [],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Ceara-Mirim.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Ceara-Mirim.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "114",
@@ -1653,7 +2048,11 @@
     "longitude": -35.3521332,
     "schedule": [],
     "pastors": [],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Massangana.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Massangana.png",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "115",
@@ -1675,7 +2074,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Luis.jpeg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Cel.-Ezequiel.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Cel.-Ezequiel.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "116",
@@ -1696,7 +2099,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Extremoz.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Extremoz.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "117",
@@ -1718,7 +2126,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Ipanguacu.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Ipanguacu.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "118",
@@ -1740,7 +2153,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Moises.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Joao-Camara.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Joao-Camara.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "119",
@@ -1762,7 +2180,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Marcio.jpeg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Lages-Pintada.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Lages-Pintada.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "120",
@@ -1784,7 +2207,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Pr.-Neto.jpeg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Macau.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Macau.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "121",
@@ -1807,7 +2235,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/pr.-Eliakim_.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Martins_.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Martins_.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "122",
@@ -1829,7 +2262,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Pr.-Walkenio.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Montanhas.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Montanhas.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "123",
@@ -1851,7 +2288,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Aaron.jpeg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/MonteAlegre.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/MonteAlegre.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "124",
@@ -1873,7 +2315,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Bom-pastor.jpg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Bom-pastor.jpg",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "125",
@@ -1896,7 +2342,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Charles-Bronson-Aquino-do-Nascimento.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Central.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Central.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "126",
@@ -1919,7 +2370,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Adamo.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Maranata.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Maranata.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "127",
@@ -1941,7 +2397,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/mossoro.jpg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/mossoro.jpg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "128",
@@ -1963,7 +2424,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Vagner.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Capim-Macio.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Capim-Macio.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "129",
@@ -1991,7 +2457,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Satelite.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Satelite.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "130",
@@ -2013,7 +2484,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Flamariom.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Manancial.jpg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Manancial.jpg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "131",
@@ -2035,7 +2511,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Henrique.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Planalto.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Planalto.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "132",
@@ -2063,7 +2544,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/C.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Alto.jpg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Alto.jpg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "133",
@@ -2085,7 +2571,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Jose-Erinaldo-Costa.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Igapo.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Igapo.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "134",
@@ -2108,7 +2599,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-06-at-22.26.46.jpeg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pajucara.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pajucara.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "135",
@@ -2130,7 +2626,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Planicie-das-Mangueiras.jpg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Planicie-das-Mangueiras.jpg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "136",
@@ -2152,7 +2653,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Elmano.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pq.-dos-Coqueiros.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pq.-dos-Coqueiros.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "137",
@@ -2174,7 +2680,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Pr.-Walter.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Santa-Catarina.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Santa-Catarina.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "138",
@@ -2202,7 +2713,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Nova-Cruz.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Nova-Cruz.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "139",
@@ -2224,7 +2740,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Menino-Junior.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Nisia-Floresta.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Nisia-Floresta.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "140",
@@ -2246,7 +2767,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Emaus_.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Emaus_.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "141",
@@ -2268,7 +2794,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Inaldo.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Nova-Parnamirim.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Nova-Parnamirim.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "142",
@@ -2290,7 +2821,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/roberio-Roberio-Olinto.jpeg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Parnamirim.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Parnamirim.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "143",
@@ -2312,7 +2847,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Manoel.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Parnamirim.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Parnamirim.png",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "144",
@@ -2334,7 +2873,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "145",
@@ -2349,7 +2892,11 @@
     "longitude": -35.6447803,
     "schedule": [],
     "pastors": [],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Passa-e-Fica.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Passa-e-Fica.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "146",
@@ -2364,7 +2911,12 @@
     "longitude": -38.2074912,
     "schedule": [],
     "pastors": [],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Pau-dos-Ferros.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Pau-dos-Ferros.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "147",
@@ -2386,7 +2938,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/avatar_pastor-1.png"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Poco-Branco.jpg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Poco-Branco.jpg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "148",
@@ -2408,7 +2965,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Soares.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/SantaCruz.jpg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/SantaCruz.jpg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "149",
@@ -2431,7 +2993,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Maciel-Augusto.jpeg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "150",
@@ -2453,7 +3020,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/01/Emanuel.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/SantoAntonio.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/SantoAntonio.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "151",
@@ -2468,7 +3040,12 @@
     "longitude": -36.084136,
     "schedule": [],
     "pastors": [],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Sao-Bento-do-Trairi.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Sao-Bento-do-Trairi.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "152",
@@ -2483,7 +3060,12 @@
     "longitude": -35.3080516,
     "schedule": [],
     "pastors": [],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Sao-Goncalo.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Sao-Goncalo.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "153",
@@ -2505,7 +3087,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Magno.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Serrinha.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Serrinha.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "154",
@@ -2528,7 +3114,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Davi-Paes.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Flores-do-Campo.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Flores-do-Campo.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "155",
@@ -2556,7 +3146,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Pedro.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Sao-Jose-de-Mipibu.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Sao-Jose-de-Mipibu.png",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "156",
@@ -2584,7 +3179,11 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Davi.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/home_church.png",
+    "verified": true,
+    "associations": [
+      "AIBRERN"
+    ]
   },
   {
     "id": "157",
@@ -2606,7 +3205,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Sebastiao.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Tangara.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Tangara.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "158",
@@ -2628,7 +3232,12 @@
         "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Pr.-Adriano.jpg"
       }
     ],
-    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Varzea.jpeg"
+    "imageUrl": "https://aibrern.com.br/wp-content/uploads/2024/02/Varzea.jpeg",
+    "verified": true,
+    "associations": [
+      "AIBREB",
+      "AIBRERN"
+    ]
   },
   {
     "id": "159",
@@ -2647,6 +3256,4382 @@
         "id": "159-p1",
         "name": "Pr. Pedro Henrique Clementino Siebra"
       }
-    ]
+    ],
+    "verified": true,
+    "associations": []
+  },
+  {
+    "id": "160",
+    "name": "Congregação Batista Regular Águas Claras",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0513075,
+    "longitude": -59.9730111,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "161",
+    "name": "Congregação Batista Regular Antioquia",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0446677,
+    "longitude": -60.0058018,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "162",
+    "name": "Igreja Batista Regular Beréia",
+    "address": "Rua Fialho de Almeida - Compensa I",
+    "number": "159",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69057-036",
+    "latitude": -3.1066085,
+    "longitude": -60.0516285,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "163",
+    "name": "Igreja Batista Regular Betel",
+    "address": "Rua Sete Quedas - Coroado II",
+    "number": "530",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69080-500",
+    "latitude": -3.0854723,
+    "longitude": -59.978866,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "164",
+    "name": "Igreja Batista Regular Betesda",
+    "address": "Rua Manacapuru - Terra Nova III",
+    "number": "32",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69900-001",
+    "latitude": -3.1448579,
+    "longitude": -59.9985506,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "165",
+    "name": "Igreja Batista Cachoeirinha",
+    "address": "Rua Carvalho Leal",
+    "number": "1186",
+    "city": "Cachoeirinha",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69065-000",
+    "latitude": -3.118104,
+    "longitude": -60.0059825,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "166",
+    "name": "Congregação Batista Regular Colina Efrata",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0252732,
+    "longitude": -59.9178151,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "167",
+    "name": "Igreja Batista Regular Calvário",
+    "address": "Rua André Vidal de Negreiros - D. Pedro II",
+    "number": "15",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69040-000",
+    "latitude": -3.0835259,
+    "longitude": -60.0449984,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "168",
+    "name": "Igreja Batista Regular Canaã",
+    "address": "Rua 31 de Agosto",
+    "number": "25",
+    "city": "Tancredo Neves",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0503044,
+    "longitude": -59.9419447,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "169",
+    "name": "Igreja Batista Regular Cesaréia",
+    "address": "Rua Pátria",
+    "number": "162",
+    "city": "Vila da Prata",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69030-630",
+    "latitude": -3.1077394,
+    "longitude": -60.0458627,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "170",
+    "name": "Igreja Batista Regular Cidade Nova",
+    "address": "Avenida B - Conj. Oswaldo Frota I",
+    "number": "02",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69050-670",
+    "latitude": -3.1086611,
+    "longitude": -59.9671764,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "171",
+    "name": "Igreja Batista Regular Colônia Antônia Aleixo",
+    "address": "Rua Nova República - Col Ant Aleixo",
+    "number": "80",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69008-030",
+    "latitude": -3.083589,
+    "longitude": -59.8955845,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "172",
+    "name": "Igreja Batista Regular Ebenézer",
+    "address": "Rua 02 de Agosto - Bairro União",
+    "number": "27",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69050-670",
+    "latitude": -3.0779937,
+    "longitude": -60.0194562,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "173",
+    "name": "Igreja Batista Regular El Shaddai",
+    "address": "Rua 1º de Setembro - Petrópolis",
+    "number": "10",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69078-000",
+    "latitude": -3.106366,
+    "longitude": -59.986971,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "174",
+    "name": "Igreja Batista Regular Elim",
+    "address": "Rua B - Esquino com Rua 04",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69035-000",
+    "latitude": -3.0692936,
+    "longitude": -59.9972544,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "175",
+    "name": "Igreja Batista Regular Elion",
+    "address": "Rua A - Coroado",
+    "number": "52",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69057-050",
+    "latitude": -3.0746997,
+    "longitude": -59.9611501,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "176",
+    "name": "Igreja Batista Regular Emanuel",
+    "address": "Rua das Palmeiras",
+    "number": "195",
+    "city": "São José",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0615102,
+    "longitude": -59.9436305,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "177",
+    "name": "Congregação Batista Regular Esperança",
+    "address": "Rua Dr. Lopes Gonçalves",
+    "number": "30",
+    "city": "Novo Aleixo",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69098-197",
+    "latitude": -3.0575952,
+    "longitude": -59.9608869,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "178",
+    "name": "Igreja Batista Regular da Fé",
+    "address": "Rua Branco e Silva",
+    "number": "200",
+    "city": "Santa Luzia",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69074-640",
+    "latitude": -3.1418806,
+    "longitude": -60.0027564,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "179",
+    "name": "Igreja Batista Regular Filadélfia",
+    "address": "Rua Paulo Gilberto - Japiilândia",
+    "number": "25",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69068-030",
+    "latitude": -3.1041677,
+    "longitude": -59.9861118,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "180",
+    "name": "Igreja Batista Regular Fonte de Luz",
+    "address": "Avenida Autaz Mirim",
+    "number": "Sem número",
+    "city": "Tancredo Neves",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69085-500",
+    "latitude": -3.0470836,
+    "longitude": -59.9437267,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "181",
+    "name": "Congregação Batista Regular Fonte de Vida",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0188342,
+    "longitude": -59.9280375,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "182",
+    "name": "Igreja Batista Regular Galiléia",
+    "address": "Rua 15 - Lírio do Vale II",
+    "number": "34",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69038-420",
+    "latitude": -3.0400661,
+    "longitude": -60.0021874,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "183",
+    "name": "Igreja Batista Regular da Graça",
+    "address": "Rua Belo Horizonte",
+    "number": "Sem número",
+    "city": "Adrianópolis",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0969008,
+    "longitude": -60.007928,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "184",
+    "name": "Congregação Batista Regular Gerizim",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0146242,
+    "longitude": -60.046802,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "185",
+    "name": "Congregação Batista Regular Grande Vitória",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0633776,
+    "longitude": -59.9267997,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "186",
+    "name": "Igreja Batista Regular da Glória",
+    "address": "Avenida Presidente Dutra - Glória",
+    "number": "134",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69027-110",
+    "latitude": -3.1209885,
+    "longitude": -60.0367045,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "187",
+    "name": "Igreja Batista Regular Hermon",
+    "address": "Rua Sapopeia - Crespo",
+    "number": "06",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69075-001",
+    "latitude": -3.1268445,
+    "longitude": -59.9879438,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "188",
+    "name": "Igreja Batista Regular Hebron",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0065831,
+    "longitude": -60.0101165,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "189",
+    "name": "Congregação Batista Regular Hosana",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0775969,
+    "longitude": -59.9441854,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "190",
+    "name": "Igreja Batista Regular Israel",
+    "address": "Rua São Pedro - Colônia Santo Antônio",
+    "number": "16",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69093-340",
+    "latitude": -3.1332135,
+    "longitude": -59.9980822,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "191",
+    "name": "Igreja Batista Regular do Japiim",
+    "address": "Rua Monte Castelo - Travessa 05",
+    "number": "Sem número",
+    "city": "Japiim",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69078-510",
+    "latitude": -3.1183518,
+    "longitude": -59.9882023,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "192",
+    "name": "Igreja Batista Regular Jerusalém",
+    "address": "Rua Gurupi",
+    "number": "1582",
+    "city": "Redenção",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69047-010",
+    "latitude": -3.0580146,
+    "longitude": -60.0386729,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "193",
+    "name": "Igreja Batista Regular Lagoa Verde",
+    "address": "Rua São Vicente",
+    "number": "74",
+    "city": "São Lázaro",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69073-010",
+    "latitude": -3.1391517,
+    "longitude": -59.9935902,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "194",
+    "name": "Congregação Batista Regular Lindo Amanhecer",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0243108,
+    "longitude": -59.9223252,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "195",
+    "name": "Igreja Batista Regular Luz Brilhante",
+    "address": "Rua São Vicente - Compensa II",
+    "number": "884",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69035-290",
+    "latitude": -3.1391517,
+    "longitude": -59.9935902,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "196",
+    "name": "Congregação Batista Regular Luz e Vida",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0605403,
+    "longitude": -59.9173658,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "197",
+    "name": "Congregação Batista Regular Macedônia",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.075276,
+    "longitude": -59.9222406,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "198",
+    "name": "Igreja Batista Regular Maranata",
+    "address": "Rua 24 de Maio - Compensa II",
+    "number": "04",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69035-580",
+    "latitude": -3.131744,
+    "longitude": -60.0248769,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "199",
+    "name": "Igreja Batista Regular Maanaim",
+    "address": "Rua Centauros - Nova Luz",
+    "number": "04",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.079748,
+    "longitude": -59.9447159,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "200",
+    "name": "Igreja Batista Regular Monte Sião",
+    "address": "Rua dos Trevos - Jorge Teixeira I",
+    "number": "30",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69088-460",
+    "latitude": -3.043068,
+    "longitude": -59.9366928,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "201",
+    "name": "Igreja Batista Regular Monte Carmelo",
+    "address": "Rua Dalva de Oliveira",
+    "number": "20",
+    "city": "Tancredo Neves",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69087-040",
+    "latitude": -3.052845,
+    "longitude": -59.9489247,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "202",
+    "name": "Igreja Batista Regular Monte Horebe",
+    "address": "Travessa Dr. João de Paulo com 11 de Maio - Colônia Antônia Aleixo",
+    "number": "137",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0898028,
+    "longitude": -59.8923428,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "203",
+    "name": "Igreja Batista Regular Monte Sinai",
+    "address": "Rua Alameda Sol Nascente - Japiilândia",
+    "number": "592",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69078-170",
+    "latitude": -3.1060619,
+    "longitude": -59.9821227,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "204",
+    "name": "Igreja Batista Regular Nova Aliança",
+    "address": "Rua Manaus - Coroado III",
+    "number": "44",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69812-190",
+    "latitude": -3.0889814,
+    "longitude": -59.9789061,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "205",
+    "name": "Igreja Batista Regular Novo Éden",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0637068,
+    "longitude": -59.9450242,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "206",
+    "name": "Igreja Batista Regular Nova Jerusalém",
+    "address": "Rua Tomé de Souza - Nova Esperança",
+    "number": "15",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0849209,
+    "longitude": -60.0395213,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "207",
+    "name": "Igreja Batista Regular Nova Vida",
+    "address": "Rua São Francisco - Zumbi I",
+    "number": "13",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69008-451",
+    "latitude": -3.0294603,
+    "longitude": -59.9221032,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "208",
+    "name": "Igreja Batista Regular de Petrópolis",
+    "address": "Rua São Pedro",
+    "number": "85",
+    "city": "Petrópolis",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69079-420",
+    "latitude": -3.1162856,
+    "longitude": -60.0000386,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "209",
+    "name": "Igreja Batista Regular Peniel",
+    "address": "Rua Jeremias - Alfredo Nascimento",
+    "number": "17",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -2.9635653,
+    "longitude": -59.9799588,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "210",
+    "name": "Igreja Batista Regular Renascer",
+    "address": "Rua Leon Satre - Col. Sto. Antônio",
+    "number": "09",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0244979,
+    "longitude": -60.0022881,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "211",
+    "name": "Igreja Batista Regular Shalon",
+    "address": "Rua Ayres de Almeida",
+    "number": "45",
+    "city": "Raiz",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.1270864,
+    "longitude": -59.9972639,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "212",
+    "name": "Igreja Batista Regular Raio do Sol",
+    "address": "Manaus",
+    "number": "Sem número",
+    "city": "Manaus",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.0106805,
+    "longitude": -59.9659862,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "213",
+    "name": "Igreja Batista Regular Tessalônica",
+    "address": "Rua Cremona",
+    "number": "416",
+    "city": "Alvorada II",
+    "state": "AM",
+    "country": "Brasil",
+    "zipCode": "69040-070",
+    "latitude": -3.0781057,
+    "longitude": -60.0473323,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "214",
+    "name": "Primeira Igreja Batista Regular da Bahia",
+    "address": "Ladeira do Acupe - Acupê de Brotas",
+    "number": "266",
+    "city": "Salvador",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "40290-160",
+    "latitude": -12.9912732,
+    "longitude": -38.4930248,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "215",
+    "name": "Igreja Batista Bereiana",
+    "address": "Via Coletora B - Fazenda Grande I",
+    "number": "137",
+    "city": "Salvador",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "41340-100",
+    "latitude": -12.8883453,
+    "longitude": -38.4032471,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "216",
+    "name": "Igreja Batista em Stella Mares Betânia",
+    "address": "Alameda Praia de Guaratuba - Salvador F",
+    "number": "1201",
+    "city": "Salvador",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "41600-270",
+    "latitude": -12.9379487,
+    "longitude": -38.3402152,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "217",
+    "name": "Igreja Batista Regular Betel",
+    "address": "B. Parque Continental",
+    "number": "Sem número",
+    "city": "Simões Filho",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -12.7806421,
+    "longitude": -38.3892973,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "218",
+    "name": "Templo Batista Calvário",
+    "address": "Travessa Dois de Julho - Cristo Rei",
+    "number": "8",
+    "city": "Simões Filho",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "43700-000",
+    "latitude": -12.8145346,
+    "longitude": -38.3915358,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "219",
+    "name": "Primeira Igreja Batista Regular do C.i.a",
+    "address": "Avenida Rinaldo Gomes Guimarães - C.I.A. I",
+    "number": "8",
+    "city": "Simões Filho",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "43700-000",
+    "latitude": -12.8109938,
+    "longitude": -38.3937737,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "220",
+    "name": "Primeira Igreja Batista Regular de Dias Dávila",
+    "address": "Rua Porto Belo - Cristo Rei",
+    "number": "330",
+    "city": "Dias D'Ávila",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "42850-000",
+    "latitude": -12.601042,
+    "longitude": -38.3084504,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "221",
+    "name": "Igreja Batista Regular Ebenézer",
+    "address": "Setor III - Qd C",
+    "number": "Sem número",
+    "city": "Salvador",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "41340-000",
+    "latitude": -12.9002982,
+    "longitude": -38.3887151,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "222",
+    "name": "Primeira Igreja Batista Fundamentalista",
+    "address": "Rua Barão do Rio Branco - Centro",
+    "number": "978",
+    "city": "Feira de Santana",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "44001-535",
+    "latitude": -12.256746,
+    "longitude": -38.960185,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "223",
+    "name": "Iii Igreja Batista Fundamentalista",
+    "address": "Rua Tijuca",
+    "number": "Sem número",
+    "city": "Feira de Santana",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -12.2172525,
+    "longitude": -38.9583992,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "224",
+    "name": "Congregação Batista Regular de Ilhéus",
+    "address": "Rua Caminho 26 - Hernani Sá",
+    "number": "39A",
+    "city": "Ilhéus",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -14.8276594,
+    "longitude": -39.0309694,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "225",
+    "name": "Congregação Batista em Itapuã",
+    "address": "Rua da Mangueira - Km 17",
+    "number": "32a",
+    "city": "Salvador",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -12.9708642,
+    "longitude": -38.4278219,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "226",
+    "name": "Ii Igreja Batista Regular Maranata",
+    "address": "Rua Porto Luz - Tomba",
+    "number": "61",
+    "city": "Feira de Santana",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -12.2793107,
+    "longitude": -38.9559441,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "227",
+    "name": "IV Igreja Batista Regular Maranata",
+    "address": "Rua Alvares de Azevedo",
+    "number": "191",
+    "city": "Feira de Santana",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -12.2959046,
+    "longitude": -38.9544111,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "228",
+    "name": "Congregação Batista Regular Nova Esperança",
+    "address": "Avenida Fernando Pinto de Queiros - Sim",
+    "number": "384",
+    "city": "Feira de Santana",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -12.2534534,
+    "longitude": -38.9144947,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "229",
+    "name": "Igreja Batista Regular da Pituba",
+    "address": "Rua Das Hortências - Pituba",
+    "number": "519",
+    "city": "Salvador",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -12.9461092,
+    "longitude": -38.4781072,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "230",
+    "name": "Primeira Igreja Batista Regular de Remanso",
+    "address": "Cidade de Remanso",
+    "number": "Sem número",
+    "city": "Remanso",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -9.6197895,
+    "longitude": -42.0798693,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "231",
+    "name": "Primeira Igreja Batista Regular de Riachão do Jacuipe",
+    "address": "Rua Filipe Tiago Gomes - Centro",
+    "number": "332",
+    "city": "Riachão do Jacuípe",
+    "state": "BA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -11.8102718,
+    "longitude": -39.3795333,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "232",
+    "name": "Congregação Batista Regular em Baturité",
+    "address": "Rua João Cordeiro - Centro",
+    "number": "876",
+    "city": "Baturité",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62760-000",
+    "latitude": -4.3313732,
+    "longitude": -38.8807535,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "233",
+    "name": "Congregação Batista Regular Boas Novas",
+    "address": "Rua Padre José Francisco Ferreira - Centro",
+    "number": "170",
+    "city": "Missão Velha",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "63200-000",
+    "latitude": -7.2469135,
+    "longitude": -39.1404404,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "234",
+    "name": "Congregação Batista Regular em Cedro",
+    "address": "Avenida Joaquim Alves dos Santos - Centro",
+    "number": "126",
+    "city": "Cedro",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -6.6082899,
+    "longitude": -39.0628639,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "235",
+    "name": "Congregação Batista Regular Filadélfia",
+    "address": "Rua Estrada Boa Esperança",
+    "number": "2005",
+    "city": "Trairí",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62690-000",
+    "latitude": -3.2673374,
+    "longitude": -39.2661512,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "236",
+    "name": "Congregação Batista Regular de Icapuí",
+    "address": "Rua Corredor da Barrinha - Mutamba",
+    "number": "999",
+    "city": "Icapuí",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62810-000",
+    "latitude": -4.6888925,
+    "longitude": -37.3817566,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "237",
+    "name": "Primeira Igreja Batista Regular de Iguape",
+    "address": "Rua Possidônio Soares",
+    "number": "Sem número",
+    "city": "Iguape",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -3.9429819,
+    "longitude": -38.2909192,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "238",
+    "name": "Igreja Batista Regular Israel",
+    "address": "Rua Raul Barbosa - Planalto Bela Vista",
+    "number": "747",
+    "city": "Russas",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62900-000",
+    "latitude": -4.9323598,
+    "longitude": -37.9873097,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "239",
+    "name": "Congregação Batista Regular de Itapiúna",
+    "address": "Rua Boticário Manoel Caudas - Centro",
+    "number": "48",
+    "city": "Itapiúna",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "62740-000",
+    "latitude": -4.5618857,
+    "longitude": -38.9222121,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "240",
+    "name": "Congregação Batista Regular de Siloé",
+    "address": "Rua Joaquim Ramos",
+    "number": "551",
+    "city": "Barrocão",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "61880-000",
+    "latitude": -3.8945761,
+    "longitude": -38.517215,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "241",
+    "name": "Congregação Batista Regular União",
+    "address": "Rua Farias Brito - João Cabral",
+    "number": "1055",
+    "city": "Juazeiro do Norte",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -7.2261293,
+    "longitude": -39.316766,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "242",
+    "name": "Igreja Batista Regular do Calvário",
+    "address": "QNN 32 - área especial D",
+    "number": "Sem número",
+    "city": "Brasília",
+    "state": "DF",
+    "country": "Brasil",
+    "zipCode": "72220-324",
+    "latitude": -15.8400268,
+    "longitude": -48.108691,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "243",
+    "name": "Igreja Batista Regular Esperança",
+    "address": "QS 410 - Conjunto C",
+    "number": "Sem número",
+    "city": "Brasília",
+    "state": "DF",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -15.8606766,
+    "longitude": -48.0759013,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "244",
+    "name": "Igreja Batista Regular Herança",
+    "address": "Quadra 22 - Lote 7 a 10",
+    "number": "Sem número",
+    "city": "Brasília",
+    "state": "DF",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -15.8444186,
+    "longitude": -47.805455,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "245",
+    "name": "Igreja Batista Regular Maranata",
+    "address": "Quadra 112 - Conj. 04",
+    "number": "Sem número",
+    "city": "Brasília",
+    "state": "DF",
+    "country": "Brasil",
+    "zipCode": "72602-404",
+    "latitude": -15.916193,
+    "longitude": -48.0994747,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "246",
+    "name": "Igreja Batista Regular do Redentor",
+    "address": "Quadra 421 - Conjunto 01",
+    "number": "Sem número",
+    "city": "Brasília",
+    "state": "DF",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -15.8856161,
+    "longitude": -48.1213081,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "247",
+    "name": "Igreja Batista Calvário",
+    "address": "Rua “P” - Quadra 15",
+    "number": "24",
+    "city": "Anápolis",
+    "state": "GO",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -16.348108,
+    "longitude": -48.9761719,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "248",
+    "name": "Igreja Batista Sudoeste",
+    "address": "Rua \"C\" - Quadra 127",
+    "number": "50",
+    "city": "Goiânia",
+    "state": "GO",
+    "country": "Brasil",
+    "zipCode": "74305-290",
+    "latitude": -16.6639991,
+    "longitude": -49.2369084,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "249",
+    "name": "Igreja Batista Regular no Bairro Brasil",
+    "address": "Avenida Maranhão - Brasil",
+    "number": "1215",
+    "city": "Uberlândia",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38400-738",
+    "latitude": -18.8917661,
+    "longitude": -48.2662155,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "250",
+    "name": "Igreja Batista Betel",
+    "address": "Rua Rubi - Costa Teles I",
+    "number": "168",
+    "city": "Uberaba",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38035-200",
+    "latitude": -19.7611369,
+    "longitude": -47.9073745,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "251",
+    "name": "Igreja Batista Boas Novas",
+    "address": "Avenida Joaquim Clemente - Floramar",
+    "number": "441",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "31840-340",
+    "latitude": -19.8396478,
+    "longitude": -43.9332774,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "252",
+    "name": "Igreja Batista Calvário",
+    "address": "Rua Dr. João Severiano Rodrigues da Cunha - Cj. Guanabara",
+    "number": "Sem número",
+    "city": "Uberaba",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38080-450",
+    "latitude": -19.7476757,
+    "longitude": -47.9385187,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "253",
+    "name": "Igreja Batista do Calvário",
+    "address": "Rua Emboabas - Saraiva",
+    "number": "133",
+    "city": "Uberlândia",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38408-424",
+    "latitude": -18.9255752,
+    "longitude": -48.2624538,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "254",
+    "name": "Igreja Batista Regular de Copacabana",
+    "address": "Rua Viena - Copacabana",
+    "number": "114",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "31540-670",
+    "latitude": -19.8364574,
+    "longitude": -43.9896077,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "255",
+    "name": "Igreja Batista Emanuel",
+    "address": "Avenida Cesário Crosara - Roosevelt",
+    "number": "3845",
+    "city": "Uberlândia",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38401-048",
+    "latitude": -18.9031242,
+    "longitude": -48.2876311,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "256",
+    "name": "Igreja Batista Esperança Bendita",
+    "address": "Rua José Fidelis da Silva - Volta Grande",
+    "number": "59",
+    "city": "Uberaba",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38045-570",
+    "latitude": -19.7779391,
+    "longitude": -47.9674008,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "257",
+    "name": "Igreja Batista da Fé",
+    "address": "Rua Niquelina - Sta. Efigênia",
+    "number": "1310",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "30260-170",
+    "latitude": -19.9228011,
+    "longitude": -43.916392,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "258",
+    "name": "Igreja Batista Regular Fonte Grande",
+    "address": "Rua Vicente do Santos 24 - Bernardo Monteiro",
+    "number": "Sem número",
+    "city": "Contagem",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "32013-010",
+    "latitude": -19.9317957,
+    "longitude": -44.0862724,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "259",
+    "name": "Igreja Batista da Luz",
+    "address": "Rua Alcione Zago 68 - Luizote II",
+    "number": "Sem número",
+    "city": "Uberlândia",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38408-215",
+    "latitude": -18.9233376,
+    "longitude": -48.3318376,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "260",
+    "name": "Igreja Batista Regular Maranata",
+    "address": "Rua Minas Gerais - Sta Maria",
+    "number": "930",
+    "city": "Uberaba",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38050-070",
+    "latitude": -19.7596048,
+    "longitude": -47.9543076,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "261",
+    "name": "Igreja Batista da Paz",
+    "address": "Rua Antonio Vicente Ferreira",
+    "number": "649",
+    "city": "Uberlândia",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38402-392",
+    "latitude": -18.9313359,
+    "longitude": -48.3122463,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "262",
+    "name": "Igreja Batista Shekiná",
+    "address": "Rua Cleusa Arli Alves - Alto Umuarama",
+    "number": "312",
+    "city": "Uberlandia",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38405-375",
+    "latitude": -18.8807552,
+    "longitude": -48.2537633,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "263",
+    "name": "Igreja Batista Regular de Sete Lagoas",
+    "address": "Rua Cascalho Rico - Carmo",
+    "number": "347",
+    "city": "Sete Lagoas",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "35700-450",
+    "latitude": -19.4431904,
+    "longitude": -44.2510412,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "264",
+    "name": "Igreja Batista Vida Nova",
+    "address": "Rua Salvador - Tibery",
+    "number": "1612",
+    "city": "Uberlândia",
+    "state": "MG",
+    "country": "Brasil",
+    "zipCode": "38405-182",
+    "latitude": -18.9074571,
+    "longitude": -48.2591021,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "265",
+    "name": "Igreja Batista Regular Beréia",
+    "address": "CN1 - Travessa WE-8b",
+    "number": "Sem número",
+    "city": "Ananindeua",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "67130-250",
+    "latitude": -1.372555,
+    "longitude": -48.4106013,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "266",
+    "name": "Igreja Batista Regular Betel",
+    "address": "Avenida Presidente Castelo Branco",
+    "number": "437",
+    "city": "Mãe do Rio",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -2.0483264,
+    "longitude": -47.5455422,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "267",
+    "name": "Igreja Batista Regular Bíblia Aberta",
+    "address": "Rodovia Mário Covas - passagem Santa Terezinha",
+    "number": "Sem número",
+    "city": "Ananindeua",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.3533112,
+    "longitude": -48.4309337,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "268",
+    "name": "Congregação Batista Regular Boas Novas",
+    "address": "Travessa WE 77 - Cidade Nova VI",
+    "number": "302",
+    "city": "Ananindeua",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.3485762,
+    "longitude": -48.3997691,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "269",
+    "name": "Igreja Batista Regular em Castanhal",
+    "address": "Castanhal",
+    "number": "Sem número",
+    "city": "Castanhal",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.2925919,
+    "longitude": -47.9364427,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "270",
+    "name": "Primeira Igreja Batista Regular de Concórdia",
+    "address": "Avenida Presidente Vargas",
+    "number": "703",
+    "city": "Concórdia",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.9956836,
+    "longitude": -47.9264561,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "271",
+    "name": "Igreja Batista Regular Ebenézer",
+    "address": "Icoaraci",
+    "number": "Sem número",
+    "city": "Pará",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.308842,
+    "longitude": -48.4563191,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "272",
+    "name": "Igreja Batista Regular Emanuel",
+    "address": "Rua dos Tamóios 354 - Jurunas",
+    "number": "Sem número",
+    "city": "Belém",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "66023-600",
+    "latitude": -1.4697701,
+    "longitude": -48.4981934,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "273",
+    "name": "Congregação Batista Regular Emanuel na Terra Firme",
+    "address": "Rua Nossa Senhora das Graças - Belém F",
+    "number": "755",
+    "city": "Belém",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "66077-420",
+    "latitude": -1.4570863,
+    "longitude": -48.4526395,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "274",
+    "name": "Congregação Batista Regular Esperança",
+    "address": "B. Batista Campos - Belém",
+    "number": "Sem número",
+    "city": "Pará",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.2022072,
+    "longitude": -47.1726462,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "275",
+    "name": "Congregação Batista Regular Esperança",
+    "address": "Rua Cezário Doce - Centro",
+    "number": "1502",
+    "city": "Igarapé-Açu",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.1335197,
+    "longitude": -47.6180387,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "276",
+    "name": "Igreja Batista Regular da Fé",
+    "address": "Avenida Senador Lemos 2954 - Sacramento",
+    "number": "Sem número",
+    "city": "Belém",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.4188581,
+    "longitude": -48.479601,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "277",
+    "name": "Igreja Batista Regular Filhos da Luz",
+    "address": "Conj. Guarajá - Travessa WE 60",
+    "number": "Sem número",
+    "city": "Ananindeua",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.3561735,
+    "longitude": -48.3906251,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "278",
+    "name": "Congregação Batista Regular Km 21",
+    "address": "BR 316 - Km 86",
+    "number": "Sem número",
+    "city": "São Francisco",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.3271538,
+    "longitude": -47.6481384,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "279",
+    "name": "Igreja Batista Regular Luz Brilhante",
+    "address": "Avenida José Bonifácio - Belém F",
+    "number": "299",
+    "city": "Belém",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "66090-363",
+    "latitude": -1.4710144,
+    "longitude": -48.468559,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "280",
+    "name": "Congregação Batista Regular Manancial",
+    "address": "Travessa José Ferreira da Paz - Loteamento São José",
+    "number": "18",
+    "city": "Castanhal",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.3102963,
+    "longitude": -47.8999571,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "281",
+    "name": "Congregação Batista Regular Maranata Ii",
+    "address": "B. Guamá",
+    "number": "Sem número",
+    "city": "Belém",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.4658042,
+    "longitude": -48.4629978,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "282",
+    "name": "Igreja Batista Regular Nova Filadélfia",
+    "address": "Travessa WE 26 - Cidade Nova V",
+    "number": "602",
+    "city": "Ananindeua",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.36366,
+    "longitude": -48.4019389,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "283",
+    "name": "Congregação Batista Regular Porta Aberta",
+    "address": "Rua da Marinha - Marambaia",
+    "number": "80",
+    "city": "Belém",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.3951575,
+    "longitude": -48.4492997,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "284",
+    "name": "Congregação Batista Regular Rei da Glória",
+    "address": "Travessa Sete de Setembro - Colina",
+    "number": "2611",
+    "city": "Belém",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.3087991,
+    "longitude": -48.4485955,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "285",
+    "name": "Congregação Rocha Eterna",
+    "address": "Rua Comercial",
+    "number": "Sem número",
+    "city": "Bonito",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.3573778,
+    "longitude": -47.3049525,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "286",
+    "name": "Congregação Shalom",
+    "address": "Rua Padre Sátiro - São Manoel",
+    "number": "554",
+    "city": "São Miguel do Guamá",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -1.6243487,
+    "longitude": -47.4817364,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "287",
+    "name": "Igreja Batista Regular Testemunha Fiel",
+    "address": "Avenida Geraldo Manso Palmeira - Jurunas",
+    "number": "195",
+    "city": "Maracanã",
+    "state": "PA",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -0.8963594,
+    "longitude": -47.4763409,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "288",
+    "name": "Igreja Batista Regular Apucarana",
+    "address": "Rua José Maria Pinto - Vila Nova",
+    "number": "1409",
+    "city": "Apucarana",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "86812-000",
+    "latitude": -23.5569957,
+    "longitude": -51.4313803,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "289",
+    "name": "Igreja Batista Bereana",
+    "address": "Rua Prof. João Climaco de Carvalho",
+    "number": "589",
+    "city": "São José dos Pinhais",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "83020-060",
+    "latitude": -25.5516223,
+    "longitude": -49.1906304,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "290",
+    "name": "Igreja Batista Regular Calvário",
+    "address": "Rua Salgado Filho",
+    "number": "347",
+    "city": "Pinhais",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "83324-510",
+    "latitude": -25.4284131,
+    "longitude": -49.1897812,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "291",
+    "name": "Igreja Batista Regular Ebenézer",
+    "address": "Rua Huxley - Atuba",
+    "number": "880",
+    "city": "Colombo",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "83408-180",
+    "latitude": -25.3769719,
+    "longitude": -49.1912692,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "292",
+    "name": "Igreja Batista da Fé em Cristo",
+    "address": "Rua Jardim Olinda - Vila Osternack",
+    "number": "40",
+    "city": "Curitiba",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "81935-020",
+    "latitude": -25.5537887,
+    "longitude": -49.2557211,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "293",
+    "name": "Igreja Batista Regular Imbuial",
+    "address": "Estrada do Imbuial - Imbuial",
+    "number": "Sem número",
+    "city": "Antonio Olinto",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -25.8281602,
+    "longitude": -50.2082486,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "294",
+    "name": "Igreja Batista Regular Jaguariaiva",
+    "address": "Rua Leandro Machado - s/n°",
+    "number": "Sem número",
+    "city": "Jaguariaíva",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "84200-000",
+    "latitude": -24.2364691,
+    "longitude": -49.6982754,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "295",
+    "name": "Igreja Batista Maranata",
+    "address": "Avenida da Integração - Bairro Alto",
+    "number": "1283",
+    "city": "Curitiba",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "82840-290",
+    "latitude": -25.4074567,
+    "longitude": -49.2094853,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "296",
+    "name": "Igreja Batista Maranata",
+    "address": "Rua Rosa Furiatti - Colônia Dona Luiza",
+    "number": "67",
+    "city": "Ponta Grossa",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "84046-570",
+    "latitude": -25.1384035,
+    "longitude": -50.1686723,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "297",
+    "name": "Igreja Batista Regular Maringá",
+    "address": "Avenida Franklin Delano Roosevel - Jd Alvorada",
+    "number": "170",
+    "city": "Maringá",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "87035-090",
+    "latitude": -23.3996279,
+    "longitude": -51.8936958,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "298",
+    "name": "Igreja Batista Moriah",
+    "address": "Rua Beija-Flor Marrom - Jd. San Rafael II",
+    "number": "535",
+    "city": "Arapongas",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "86703-510",
+    "latitude": -23.3937188,
+    "longitude": -51.4121091,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "299",
+    "name": "Igreja Batista Nova Esperança",
+    "address": "Rua Alvaro Silva Abelardino - Pinheirinho",
+    "number": "427",
+    "city": "Curitiba",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "81820-440",
+    "latitude": -25.5181978,
+    "longitude": -49.280601,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "300",
+    "name": "Igreja Batista Salém",
+    "address": "Rua Aloísio de Azevedo - Vargem Grande",
+    "number": "604",
+    "city": "Pinhais",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "83321-240",
+    "latitude": -25.4430959,
+    "longitude": -49.1730792,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "301",
+    "name": "Igreja Batista Regular em São Mateus do Sul",
+    "address": "Rua Miguel Musialak - Vila Palmeirinha",
+    "number": "14",
+    "city": "São Mateus do Sul",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "83900-000",
+    "latitude": -25.8948097,
+    "longitude": -50.3774027,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "302",
+    "name": "Igreja Batista Vitória",
+    "address": "Rua Rio Piqueri - Jd. Weissópolis",
+    "number": "950",
+    "city": "Pinhais",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "83322-010",
+    "latitude": -25.456513,
+    "longitude": -49.1879589,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "303",
+    "name": "Igreja Batista Vitória de Londrina",
+    "address": "Rua Antonio Rosa - Jd. Roma",
+    "number": "80",
+    "city": "Londrina",
+    "state": "PR",
+    "country": "Brasil",
+    "zipCode": "86061-280",
+    "latitude": -23.2815765,
+    "longitude": -51.1544929,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "304",
+    "name": "Igreja Batista Campo Grande",
+    "address": "Rua Alain da Luz - Jd. Campinho",
+    "number": "57",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "country": "Brasil",
+    "zipCode": "23080-150",
+    "latitude": -22.8972263,
+    "longitude": -43.5624812,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "305",
+    "name": "Igreja Batista Regular da Ilha do Governador",
+    "address": "Estrada do Dendê - Dendê",
+    "number": "535",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "country": "Brasil",
+    "zipCode": "21922-000",
+    "latitude": -22.7984335,
+    "longitude": -43.1889553,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "306",
+    "name": "1ª Igreja Batista Regular do Rio de Janeiro",
+    "address": "Estrada dos Três Rios - Jacarepaguá",
+    "number": "485",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "country": "Brasil",
+    "zipCode": "22745-003",
+    "latitude": -22.927184,
+    "longitude": -43.3197309,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "307",
+    "name": "Igreja Batista em São Gonçalo",
+    "address": "Rua Joaquim Campos - Itauna",
+    "number": "32",
+    "city": "São Gonçalo",
+    "state": "RJ",
+    "country": "Brasil",
+    "zipCode": "24461-575",
+    "latitude": -22.797226,
+    "longitude": -43.0271233,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "308",
+    "name": "Igreja Batista Regular Candelária",
+    "address": "Rua Valdir Targino - Candelária",
+    "number": "3585",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59065-670",
+    "latitude": -5.8419807,
+    "longitude": -35.215649,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "309",
+    "name": "Congregação Batista Regular Emanuel",
+    "address": "Rua Padre Carlos",
+    "number": "10",
+    "city": "Frutuoso Gomes",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59890-000",
+    "latitude": -6.1606612,
+    "longitude": -37.8413258,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "310",
+    "name": "Igreja Batista Regular da Esperança",
+    "address": "Rua Condado - S/N- Cid. da Esperança",
+    "number": "Sem número",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59071-290",
+    "latitude": -5.822186,
+    "longitude": -35.238729,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "311",
+    "name": "Igreja Batista Regular Filadélfia",
+    "address": "Avenida Rio Umari",
+    "number": "Sem número",
+    "city": "Umarizal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59865-000",
+    "latitude": -5.985901,
+    "longitude": -37.8184881,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "312",
+    "name": "Congregação Batista Regular Itaú",
+    "address": "Rua Getúlio Vargas",
+    "number": "Sem número",
+    "city": "Itaú",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59855-000",
+    "latitude": -5.8405238,
+    "longitude": -37.9909257,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "313",
+    "name": "Congregação Batista Regular Macaíba",
+    "address": "Rua Areia Branca",
+    "number": "690",
+    "city": "Macaíba",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59280-000",
+    "latitude": -5.8408744,
+    "longitude": -35.353097,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "314",
+    "name": "Congregação Batista Regular Mossoró",
+    "address": "Avenida Santa Luzia - Santa Delmira",
+    "number": "40",
+    "city": "Mossoró",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59615-000",
+    "latitude": -5.1525723,
+    "longitude": -37.3568678,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "315",
+    "name": "Igreja Batista Regular Neópolis",
+    "address": "Rua Dos Ipês - Neópolis",
+    "number": "225",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59080-200",
+    "latitude": -5.8550666,
+    "longitude": -35.2073269,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "316",
+    "name": "Congregação Batista Regular Maracujá",
+    "address": "Rua Cícero Alves da Fonseca",
+    "number": "180",
+    "city": "Santa Cruz",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59200-000",
+    "latitude": -6.2210585,
+    "longitude": -36.0265186,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "317",
+    "name": "Congregação Batista Regular Santana dos Matos",
+    "address": "Avenida 27 de outubro",
+    "number": "Sem número",
+    "city": "Santana do Matos",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59520-000",
+    "latitude": -5.9543709,
+    "longitude": -36.6528144,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "318",
+    "name": "Igreja Batista Regular Shekiná",
+    "address": "Avenida Santos Dumont - Mirassol",
+    "number": "478",
+    "city": "Natal",
+    "state": "RN",
+    "country": "Brasil",
+    "zipCode": "59078-200",
+    "latitude": -5.8419402,
+    "longitude": -35.2052156,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "319",
+    "name": "Igreja Batista Regular Ebenézer",
+    "address": "Rua Capão da Canoa - Três Marias",
+    "number": "Sem número",
+    "city": "Porto Velho",
+    "state": "RO",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -8.7838631,
+    "longitude": -63.8431198,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "320",
+    "name": "Igreja Batista Regular Primeira Igreja Batista Regular",
+    "address": "Rua Posidônio Fontes - Agenor Carvalho",
+    "number": "4146",
+    "city": "Porto Velho",
+    "state": "RO",
+    "country": "Brasil",
+    "zipCode": "76820-336",
+    "latitude": -8.7597504,
+    "longitude": -63.8675062,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "321",
+    "name": "Igreja Batista Regular de Boa Vista",
+    "address": "Rua José Magalhães - Centro",
+    "number": "222",
+    "city": "Boa Vista",
+    "state": "RR",
+    "country": "Brasil",
+    "zipCode": "69301-360",
+    "latitude": 2.8190237,
+    "longitude": -60.6681887,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "322",
+    "name": "Igreja Batista Regular Calvário",
+    "address": "Avenida Minas Gerais - Paraviana",
+    "number": "420",
+    "city": "Boa Vista",
+    "state": "RR",
+    "country": "Brasil",
+    "zipCode": "69305-500",
+    "latitude": 2.8478635,
+    "longitude": -60.6634582,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "323",
+    "name": "Igreja Batista Regular Maranata",
+    "address": "Avenida Padre Anchieta - Dr. Silvio Leite",
+    "number": "637",
+    "city": "Boa Vista",
+    "state": "RR",
+    "country": "Brasil",
+    "zipCode": "69311-316",
+    "latitude": 2.8196488,
+    "longitude": -60.7349524,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "324",
+    "name": "Igreja Batista Bereiana",
+    "address": "Rua Waldemar Rau - Rau",
+    "number": "280",
+    "city": "Jaraguá do Sul",
+    "state": "SC",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -26.465298,
+    "longitude": -49.1129415,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "325",
+    "name": "Igreja Batista da Graça",
+    "address": "Rua Gustavo Zimmermann",
+    "number": "677",
+    "city": "Blumenau",
+    "state": "SC",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -26.7862686,
+    "longitude": -49.0829684,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "326",
+    "name": "Igreja Batista Adonai",
+    "address": "Rua Paulista - Jd. Conceição",
+    "number": "756",
+    "city": "Osasco",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "06140-030",
+    "latitude": -23.5811027,
+    "longitude": -46.8003994,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "327",
+    "name": "Igreja Batista Regular Água da Vida",
+    "address": "Rua Margaridas Amarelas",
+    "number": "19",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -23.7376177,
+    "longitude": -46.7955987,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "328",
+    "name": "Igreja Batista Regular em Jardim Ângela",
+    "address": "Rua Marcelino Coelho - Jd. Ângela",
+    "number": "141",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04939-010",
+    "latitude": -21.4855541,
+    "longitude": -47.3597854,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "329",
+    "name": "Igreja Batista Regular em Bairro 5 Assunção",
+    "address": "Rua Rolando Gambini - Jd. Lavínia",
+    "number": "100",
+    "city": "São Bernardo do Campo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "09811-130",
+    "latitude": -23.7254358,
+    "longitude": -46.565747,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "330",
+    "name": "Igreja Batista Beit Sar Shalon",
+    "address": "Rua Albuquerque Lins - Higienópolis",
+    "number": "1282",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "01230-000",
+    "latitude": -22.9088399,
+    "longitude": -47.1085936,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "331",
+    "name": "Igreja Batista Bereana em São Mateus",
+    "address": "Rua Sagitário - Jd. Sta. Bárbara",
+    "number": "571",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "08330-470",
+    "latitude": -23.2042997,
+    "longitude": -45.8562612,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "332",
+    "name": "Igreja Batista Betel",
+    "address": "Rua Firmino Moreira da Costa - Vila Menino Jesus",
+    "number": "74",
+    "city": "Caçapava",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "12287-000",
+    "latitude": -23.0737705,
+    "longitude": -45.7110209,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "333",
+    "name": "Igreja Batista Regular Betel em Cocaia",
+    "address": "Rua Demas Zitto - Pq. Cocaia",
+    "number": "58",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04849-050",
+    "latitude": -23.744179,
+    "longitude": -46.6730883,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "334",
+    "name": "Igreja Batista das Boas Novas",
+    "address": "Avenida Arymana - Pq. D. Pedro II",
+    "number": "754",
+    "city": "Campinas",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "13056-473",
+    "latitude": -22.9737709,
+    "longitude": -47.1459868,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "335",
+    "name": "Igreja Batista Regular Boas Novas",
+    "address": "Rua Júlio de Campos Rodrigues - Piraporinha",
+    "number": "180",
+    "city": "Diadema",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "09951-460",
+    "latitude": -23.6903734,
+    "longitude": -46.5826429,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "336",
+    "name": "Igreja Batista Regular Boas Novas",
+    "address": "Rua Otávio Pinto César - Cidade Nova",
+    "number": "830",
+    "city": "São José do Rio Preto",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "15085-360",
+    "latitude": -20.8351733,
+    "longitude": -49.3852538,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "337",
+    "name": "Igreja Batista o Bom Pastor",
+    "address": "Rua Cel. Job Figueiredo - Jd. Nova Europa",
+    "number": "144",
+    "city": "Campinas",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "13040-060",
+    "latitude": -22.9414624,
+    "longitude": -47.060986,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "338",
+    "name": "Igreja Batista Regular Bom Retiro",
+    "address": "Rua Ouro Grosso - Pq. Peruche",
+    "number": "918",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "02531-000",
+    "latitude": -23.5008173,
+    "longitude": -46.6564136,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "339",
+    "name": "1ª Igreja Batista Regular de Caçapava",
+    "address": "Rua Tancredo Fazzi",
+    "number": "Sem número",
+    "city": "Caçapava",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "12280-000",
+    "latitude": -23.1099247,
+    "longitude": -45.7158953,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "340",
+    "name": "Igreja Batista Calvário",
+    "address": "Avenida Santos Dumont",
+    "number": "265",
+    "city": "Sorocaba",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "18001-000",
+    "latitude": -23.4859413,
+    "longitude": -47.4778631,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "341",
+    "name": "Igreja Batista Regular do Calvário",
+    "address": "Rua Pref. Eneas de Siqueira Neto - Bairro Jardim das Imbuias",
+    "number": "86",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04829-300",
+    "latitude": -23.7292701,
+    "longitude": -46.7110866,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "342",
+    "name": "Igreja Batista Caminho do Rei",
+    "address": "Rua Cachoeira do Campo Grande - Bairro Barro Branco II",
+    "number": "369",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "08475-620",
+    "latitude": -23.5834916,
+    "longitude": -46.3949628,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "343",
+    "name": "1ª Igreja Batista Regular de Campinas",
+    "address": "Avenida Barão de Monte Alegre - V. Teixeira",
+    "number": "377",
+    "city": "Campinas",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "13032-550",
+    "latitude": -22.9091789,
+    "longitude": -47.0850861,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "344",
+    "name": "Igreja Batista Regular em Carapicuíba",
+    "address": "Rua Romanoff",
+    "number": "490",
+    "city": "Carapicuíba",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "06322-130",
+    "latitude": -23.5295702,
+    "longitude": -46.8331693,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "345",
+    "name": "Igreja Batista Regular em Casa da Pedra",
+    "address": "Rua Adauto Bezerra Delgado - Jd. Joamar",
+    "number": "72",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "02320-110",
+    "latitude": -23.4496144,
+    "longitude": -46.596674,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "346",
+    "name": "Igreja Batista Castelo Forte",
+    "address": "Rua Lagoa da Barra",
+    "number": "167",
+    "city": "Itaquera",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "08215-540",
+    "latitude": -23.5450652,
+    "longitude": -46.4436831,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "347",
+    "name": "Congregação Batista Regular Castro Alves",
+    "address": "Rua Isabel Aguiar de Campos - Jd Castro Alves",
+    "number": "630",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04826-100",
+    "latitude": -23.7437639,
+    "longitude": -46.6879422,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "348",
+    "name": "Igreja Batista em Cidade Tiradentes",
+    "address": "Rua Arnaldo Bonaventura - Cidade Tiradentes",
+    "number": "207",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "08470-210",
+    "latitude": -23.5876856,
+    "longitude": -46.4089094,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "349",
+    "name": "1ª Igreja Batista Regular de Cubatão",
+    "address": "Avenida Nações Unidas - Vl. Nova",
+    "number": "508",
+    "city": "Cubatão",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "11525-130",
+    "latitude": -23.8954361,
+    "longitude": -46.4263084,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "350",
+    "name": "Igreja Batista Regular em Diadema",
+    "address": "Avenida N. Sra das Vitórias - Centro",
+    "number": "310",
+    "city": "Diadema",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "09910-140",
+    "latitude": -23.6889931,
+    "longitude": -46.6269367,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "351",
+    "name": "Igreja Batista do Caminho",
+    "address": "Rua Rodolfo Petrucelli",
+    "number": "853",
+    "city": "São José do Rio Preto",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "15057-515",
+    "latitude": -20.7951982,
+    "longitude": -49.3487927,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "352",
+    "name": "Igreja Batista Regular em Jd. Eldorado",
+    "address": "Rua João Antonio de Araújo - Jd. Eldorado",
+    "number": "186",
+    "city": "Diadema",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "09972-000",
+    "latitude": -23.7216852,
+    "longitude": -46.6216363,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "353",
+    "name": "Igreja Batista Emanuel",
+    "address": "Rua dos Acajús - Boa Vista",
+    "number": "95",
+    "city": "Campinas",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "13065-140",
+    "latitude": -22.8870385,
+    "longitude": -47.1256488,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "354",
+    "name": "1ª Igreja Batista Regular no Embú",
+    "address": "Rua Quatá - Jd. Dom José",
+    "number": "21",
+    "city": "Embú",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "06823-370",
+    "latitude": -23.6685515,
+    "longitude": -46.80602,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "355",
+    "name": "Igreja Batista Esperança",
+    "address": "Rua Loefgren - Vl. Clementino",
+    "number": "1279",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04040-031",
+    "latitude": -23.6001084,
+    "longitude": -46.6378993,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "356",
+    "name": "Igreja Batista Esperança em Tatuapé",
+    "address": "Praça Cel. Sandoval de Figueiredo - Tatuapé",
+    "number": "41",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "03308-050",
+    "latitude": -23.5416785,
+    "longitude": -46.5742151,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "357",
+    "name": "Congregação Batista Esperança Filadélfia",
+    "address": "Rua Rosalina de Siqueira - Centro",
+    "number": "158",
+    "city": "Jacareí",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04772-004",
+    "latitude": -23.3094438,
+    "longitude": -45.965984,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "358",
+    "name": "Igreja Batista da Fé",
+    "address": "Rua do Cardoso - B Alto do Cardoso",
+    "number": "21",
+    "city": "Pindamonhangaba",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "12420-080",
+    "latitude": -22.9380883,
+    "longitude": -45.4650926,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "359",
+    "name": "Igreja Batista da Fé",
+    "address": "Rua Robert Kennedy - Socorro",
+    "number": "Sem número",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04772-004",
+    "latitude": -23.5694691,
+    "longitude": -46.8037248,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "360",
+    "name": "Igreja Batista Regular da Fé",
+    "address": "Rua Antonio Sávia - Jd. Maria Helena",
+    "number": "73",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "05854-030",
+    "latitude": -23.6587553,
+    "longitude": -46.763197,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "361",
+    "name": "Igreja Batista Regular Filadélfia",
+    "address": "Rua José Agapito Cardoso - Bal. Maracanã",
+    "number": "1139",
+    "city": "Praia Grande",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "11705-360",
+    "latitude": -24.037197,
+    "longitude": -46.5012034,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "362",
+    "name": "Igreja Batista Regular Filadélfia",
+    "address": "Rua Salvador Simões - Ipiranga",
+    "number": "1432",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04676-000",
+    "latitude": -23.5966798,
+    "longitude": -46.6140399,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "363",
+    "name": "Igreja Batista em Jd. Florence I",
+    "address": "Rua Leonor Pereira Talarico - Jd. Florence I",
+    "number": "194",
+    "city": "Campinas",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "13059-046",
+    "latitude": -22.9408806,
+    "longitude": -47.1591068,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "364",
+    "name": "Igreja Batista Regular do Parque Grajaú – Sp",
+    "address": "Rua Ezequiel Lopes Cardoso - Pq. Grajaú",
+    "number": "125",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04843-610",
+    "latitude": -23.746561,
+    "longitude": -46.6894926,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "365",
+    "name": "Igreja Batista Regular do Horto do Ypê",
+    "address": "Rua Edith Junqueira de A. Marque - Campo Limpo",
+    "number": "91",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "05782-390",
+    "latitude": -23.6494769,
+    "longitude": -46.7636378,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "366",
+    "name": "Igreja Batista em Jardim Lisa",
+    "address": "Rua Décio de Andrade Silva",
+    "number": "346",
+    "city": "Campinas",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "13058-360",
+    "latitude": -22.9534315,
+    "longitude": -47.1846852,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "367",
+    "name": "Igreja Batista em Jardim Mirna",
+    "address": "Avenida Antonio B. dos Santos",
+    "number": "2848",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04856-070",
+    "latitude": -23.7677368,
+    "longitude": -46.698415,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "368",
+    "name": "Igreja Batista em Jardim Reimberg",
+    "address": "Rua Domingos Tavares Santiago - Jd. Reimberg",
+    "number": "194",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04845-140",
+    "latitude": -23.7494131,
+    "longitude": -46.6952913,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "369",
+    "name": "Igreja Batista Regular em Vl Lageado",
+    "address": "Avenida Presidente Altino - Vl. Lageado",
+    "number": "431",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "05323-000",
+    "latitude": -23.5364489,
+    "longitude": -46.7552322,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "370",
+    "name": "Igreja Batista em Jd Laura",
+    "address": "Rua Ademar Saraiva Leão",
+    "number": "220",
+    "city": "São Bernardo do Campo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "09853-120",
+    "latitude": -23.7420366,
+    "longitude": -46.6039002,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "371",
+    "name": "Igreja Batista Regular em Vl Leopoldina",
+    "address": "Rua Carlos Weber - Vl. Leopoldina",
+    "number": "372",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "05303-000",
+    "latitude": -23.524814,
+    "longitude": -46.7334011,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "372",
+    "name": "Igreja Batista Luz da Vida",
+    "address": "Rua Narizinho - Jd. Gurilândia",
+    "number": "1025",
+    "city": "Taubaté",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -23.0083964,
+    "longitude": -45.5274166,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "373",
+    "name": "Igreja Batista Regular Manancial",
+    "address": "Rua Floriano Peixoto",
+    "number": "1314",
+    "city": "Salto",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "13322-020",
+    "latitude": -23.2042898,
+    "longitude": -47.2885157,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "374",
+    "name": "Igreja Batista Maranata",
+    "address": "Avenida 58 - nº 521",
+    "number": "Sem número",
+    "city": "Rio Claro",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "13506-054",
+    "latitude": -22.3830557,
+    "longitude": -47.5532793,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "375",
+    "name": "Igreja Batista Maranata",
+    "address": "Rua Edmundo Panúncio - Jd. Nova Aparecida",
+    "number": "257",
+    "city": "Campinas",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "13110-160",
+    "latitude": -22.853392,
+    "longitude": -47.160572,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "376",
+    "name": "Igreja Batista Maranata",
+    "address": "Rua Maria Luvizotto Catto - Jd. Itanguá I",
+    "number": "70",
+    "city": "Sorocaba",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "18056-080",
+    "latitude": -23.5090709,
+    "longitude": -47.499792,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "377",
+    "name": "Igreja Batista Maranata",
+    "address": "Rua Salvador Neves - Sumarezinho",
+    "number": "779",
+    "city": "Ribeirão Preto",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "14055-340",
+    "latitude": -21.1599233,
+    "longitude": -47.8301212,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "378",
+    "name": "Igreja Batista Maranata em Tatuapé",
+    "address": "Rua XV de Novembro - Centro",
+    "number": "81",
+    "city": "Taubaté",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "12020-000",
+    "latitude": -23.0252313,
+    "longitude": -45.5570826,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "379",
+    "name": "Congregação Batista Regular em Mogi Mirim",
+    "address": "Rua Amaro de Barros",
+    "number": "196",
+    "city": "Mogi Mirim",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "",
+    "latitude": -22.4119777,
+    "longitude": -46.9701033,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "380",
+    "name": "Igreja Batista Regular Monte das Oliveiras",
+    "address": "Rua Olímpia Tomás de Aquino 940 - Jd. Das Oliveiras",
+    "number": "Sem número",
+    "city": "Taboão da Serra",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "06765-370",
+    "latitude": -23.6244573,
+    "longitude": -46.773024,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "381",
+    "name": "Igreja Batista em Moraes Prado",
+    "address": "Avenida Carlos Barbosa dos Santos - Jd Moraes Prado",
+    "number": "2354",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04852-320",
+    "latitude": -23.7715033,
+    "longitude": -46.6803828,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "382",
+    "name": "Igreja Batista Regular Nova Aliança",
+    "address": "Estrada dos Morais - Jd. Dos Morais",
+    "number": "465",
+    "city": "Embu das Artes",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "06814-200",
+    "latitude": -23.6611425,
+    "longitude": -46.8182652,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "383",
+    "name": "Igreja Batista Regular Nova Jerusalém",
+    "address": "Rua Topázio",
+    "number": "Sem número",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04105-060",
+    "latitude": -23.5748784,
+    "longitude": -46.6335438,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "384",
+    "name": "Igreja Batista Nova Vida",
+    "address": "Avenida Atanásio Soares",
+    "number": "2094",
+    "city": "Sorocaba",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "18076-141",
+    "latitude": -23.4639473,
+    "longitude": -47.4785258,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "385",
+    "name": "Igreja Batista Regular em Jd. Oriental",
+    "address": "Rua Suíça - A- Bairro: Jd. Oriental",
+    "number": "3",
+    "city": "Osasco",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "38400-738",
+    "latitude": -23.503666,
+    "longitude": -46.7714374,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "386",
+    "name": "Igreja Batista Regular em Jd. Palmares",
+    "address": "Rua Sinfonia Italiana - Santo Amaro",
+    "number": "07",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04844-610",
+    "latitude": -23.756209,
+    "longitude": -46.7083011,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "387",
+    "name": "Igreja Batista Regular em Jd. Palmira",
+    "address": "Rua Clauco Antonio Galli - Jd. Palmira",
+    "number": "Sem número",
+    "city": "Guarulhos",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "07076-010",
+    "latitude": -23.4323197,
+    "longitude": -46.5623681,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "388",
+    "name": "Igreja Batista Regular em Parque Cocaia",
+    "address": "Rua Santo Antonio de Ossela - Pq. Cocaia",
+    "number": "800",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04851-100",
+    "latitude": -23.7516829,
+    "longitude": -46.678295,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "389",
+    "name": "Igreja Batista Regular em Peruíbe",
+    "address": "Rua Gelson de Souza Reis",
+    "number": "1307",
+    "city": "Peruibe",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "11750-000",
+    "latitude": -24.2617973,
+    "longitude": -46.9563891,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "390",
+    "name": "Igreja Batista Regular em Pinheirinho",
+    "address": "Rua Cactus",
+    "number": "110",
+    "city": "Embu",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "06835-380",
+    "latitude": -23.6805451,
+    "longitude": -46.8537109,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "391",
+    "name": "Igreja Batista Regular em Rio Bonito",
+    "address": "Rua Cassiano dos Santos - Rio Bonito",
+    "number": "166",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04828-110",
+    "latitude": -23.7226551,
+    "longitude": -46.700055,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "392",
+    "name": "Igreja Batista Regular em São Simão",
+    "address": "Rua Rui Barbosa - Centro",
+    "number": "112",
+    "city": "São Simão",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "14200-000",
+    "latitude": -21.474927,
+    "longitude": -47.5608593,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "393",
+    "name": "Igreja Batista Regular em Sumarezinho",
+    "address": "Rua Caiowaá - Sumarezinho",
+    "number": "2270",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "05018-000",
+    "latitude": -23.5384329,
+    "longitude": -46.6836502,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "394",
+    "name": "1ª Igreja Batista dos Surdos do Brasil",
+    "address": "Rua Álvares Machado - Centro",
+    "number": "480",
+    "city": "Campinas",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "13065-140",
+    "latitude": -22.9046324,
+    "longitude": -47.0634396,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "395",
+    "name": "Igreja Batista Regular de Taboão da Serra",
+    "address": "Avenida Kizaemon Takeuti - Jd. Mituzi",
+    "number": "2711",
+    "city": "Taboão da Serra",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "06775-003",
+    "latitude": -23.637689,
+    "longitude": -46.7916448,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "396",
+    "name": "Igreja Batista Central de Taubaté",
+    "address": "Rua Urupês - Chalé do Visconde",
+    "number": "136",
+    "city": "Taubaté",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "12060-080",
+    "latitude": -23.021152,
+    "longitude": -45.5635923,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "397",
+    "name": "Igreja Batista Regular Jd. Tremembé",
+    "address": "Rua Sena - Palmas do Tremembé",
+    "number": "213",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "02347-060",
+    "latitude": -23.4622044,
+    "longitude": -46.6058644,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "398",
+    "name": "Igreja Batista Regular de Tucuruvi",
+    "address": "Rua da Grota - Tucuruvi",
+    "number": "469",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "02206-010",
+    "latitude": -23.4840696,
+    "longitude": -46.5967516,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "399",
+    "name": "Igreja Batista em Vargem Grande",
+    "address": "Travessa José Manoel de Oliveira - Centro",
+    "number": "90",
+    "city": "Vargem Grande Paulista",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "06730-000",
+    "latitude": -23.6081205,
+    "longitude": -47.021724,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "400",
+    "name": "Igreja Batista Vida Nova",
+    "address": "Avenida Eng. Armando de Arruda Pereira - Jabaguara",
+    "number": "2747",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "04309-011",
+    "latitude": -23.6537212,
+    "longitude": -46.6370892,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "401",
+    "name": "Igreja Batista Regular da Vitória",
+    "address": "Rua Exacta - Jd. Leonor",
+    "number": "116",
+    "city": "Cotia",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "06700-218",
+    "latitude": -23.6086863,
+    "longitude": -46.930241,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "402",
+    "name": "1ª Igreja Batista Regular na Zona Leste",
+    "address": "Rua Peruva Preta - S. Miguel Paulista",
+    "number": "42",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipCode": "08040-750",
+    "latitude": -23.5125586,
+    "longitude": -46.447605,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBREB"
+    ],
+    "verified": false
   }
 ]
