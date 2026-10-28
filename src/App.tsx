@@ -84,7 +84,15 @@ function App() {
           <div className="list">
             {filteredChurches.map(church => (
               <article key={church.id} className="card">
-                <h2>{church.name}</h2>
+                <h2>
+                  {church.name}
+                  {church.verified && (
+                    <span className="verified" title="Verificada">
+                      {' '}
+                      ✓ Verificada
+                    </span>
+                  )}
+                </h2>
                 <p>
                   {church.address}
                   {church.number && church.number !== 'Sem número'
@@ -93,6 +101,9 @@ function App() {
                   {' — '}
                   {church.city} - {church.state}
                 </p>
+                {church.associations.length > 0 && (
+                  <p className="pastors">{church.associations.join(' · ')}</p>
+                )}
                 {church.pastors.length > 0 && (
                   <p className="pastors">
                     Pastor(es): {church.pastors.map(p => p.name).join(', ')}

@@ -19,6 +19,8 @@ export type ChurchType = {
   longitude: number;
   pastors: PastorType[];
   imageUrl?: string;
+  associations: string[];
+  verified: boolean;
 };
 
 export type DevotionalType = {

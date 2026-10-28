@@ -23,3 +23,9 @@ h2 {
 button {
   font-family: inherit;
 }
+
+.verified {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #3f6b3a;
+}
