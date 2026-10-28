@@ -2388,7 +2388,42 @@
     "zipCode": "59605-020",
     "latitude": -5.1930716,
     "longitude": -37.3570301,
-    "schedule": [],
+    "schedule": [
+      {
+        "id": "127-s1",
+        "day": "Quarta-feira",
+        "items": [
+          {
+            "hour": "19:30 - 21:00",
+            "description": "Culto de oração"
+          }
+        ]
+      },
+      {
+        "id": "127-s2",
+        "day": "Sábado",
+        "items": [
+          {
+            "hour": "17:00 - 18:30",
+            "description": "Culto de jovens"
+          }
+        ]
+      },
+      {
+        "id": "127-s3",
+        "day": "Domingo",
+        "items": [
+          {
+            "hour": "09:00 - 11:00",
+            "description": "Escola Bíblica Dominical"
+          },
+          {
+            "hour": "19:00 - 21:00",
+            "description": "Culto de celebração"
+          }
+        ]
+      }
+    ],
     "pastors": [
       {
         "id": "127-p1",
@@ -2415,7 +2450,32 @@
     "zipCode": "59082-100",
     "latitude": -5.8625559,
     "longitude": -35.2018062,
-    "schedule": [],
+    "schedule": [
+      {
+        "id": "128-s1",
+        "day": "Quarta-feira",
+        "items": [
+          {
+            "hour": "19:30 - 21:00",
+            "description": "Culto de oração"
+          }
+        ]
+      },
+      {
+        "id": "128-s2",
+        "day": "Domingo",
+        "items": [
+          {
+            "hour": "09:00 - 11:00",
+            "description": "Escola Bíblica Dominical"
+          },
+          {
+            "hour": "18:30 - 20:30",
+            "description": "Culto da noite"
+          }
+        ]
+      }
+    ],
     "pastors": [
       {
         "id": "128-p1",
@@ -2442,7 +2502,42 @@
     "zipCode": "59067-480",
     "latitude": -5.8730674,
     "longitude": -35.2240126,
-    "schedule": [],
+    "schedule": [
+      {
+        "id": "129-s1",
+        "day": "Quarta-feira",
+        "items": [
+          {
+            "hour": "19:30 - 21:00",
+            "description": "Culto de oração"
+          }
+        ]
+      },
+      {
+        "id": "129-s2",
+        "day": "Sábado",
+        "items": [
+          {
+            "hour": "16:00 - 18:00",
+            "description": "Culto de jovens"
+          }
+        ]
+      },
+      {
+        "id": "129-s3",
+        "day": "Domingo",
+        "items": [
+          {
+            "hour": "09:00 - 11:00",
+            "description": "Escola Bíblica Dominical"
+          },
+          {
+            "hour": "19:00 - 21:00",
+            "description": "Culto da família"
+          }
+        ]
+      }
+    ],
     "pastors": [
       {
         "id": "129-p1",
@@ -2529,7 +2624,42 @@
     "zipCode": "59122-000",
     "latitude": -5.7423567,
     "longitude": -35.234757,
-    "schedule": [],
+    "schedule": [
+      {
+        "id": "132-s1",
+        "day": "Quarta-feira",
+        "items": [
+          {
+            "hour": "20:00 - 21:30",
+            "description": "Culto de ensino"
+          }
+        ]
+      },
+      {
+        "id": "132-s2",
+        "day": "Sábado",
+        "items": [
+          {
+            "hour": "16:30 - 18:00",
+            "description": "Reunião de jovens"
+          }
+        ]
+      },
+      {
+        "id": "132-s3",
+        "day": "Domingo",
+        "items": [
+          {
+            "hour": "08:30 - 10:30",
+            "description": "Escola Bíblica Dominical"
+          },
+          {
+            "hour": "19:00 - 21:00",
+            "description": "Culto da noite"
+          }
+        ]
+      }
+    ],
     "pastors": [
       {
         "id": "132-p1",
