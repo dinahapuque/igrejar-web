@@ -404,7 +404,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -422,7 +423,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -440,7 +442,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -458,7 +461,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -476,7 +480,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -494,7 +499,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -512,7 +518,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -530,7 +537,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -548,7 +556,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -566,7 +575,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -584,7 +594,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -602,7 +613,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -620,7 +632,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -638,7 +651,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -656,7 +670,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -674,7 +689,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -710,7 +726,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -728,7 +745,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -746,7 +764,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -764,7 +783,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -782,7 +802,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -800,7 +821,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -817,7 +839,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "48",
@@ -833,7 +857,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "49",
@@ -849,7 +875,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "50",
@@ -865,7 +893,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "51",
@@ -881,7 +911,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "52",
@@ -897,7 +929,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "53",
@@ -913,7 +947,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "54",
@@ -929,7 +965,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "55",
@@ -945,7 +983,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "56",
@@ -962,7 +1002,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -979,7 +1020,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "58",
@@ -996,7 +1039,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1013,7 +1057,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "60",
@@ -1030,7 +1076,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1048,7 +1095,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1066,7 +1114,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1083,7 +1132,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "64",
@@ -1099,7 +1150,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "65",
@@ -1115,7 +1168,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "66",
@@ -1131,7 +1186,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "67",
@@ -1147,7 +1204,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "68",
@@ -1163,7 +1222,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "69",
@@ -1180,7 +1241,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1197,7 +1259,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "71",
@@ -1213,7 +1277,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "72",
@@ -1229,7 +1295,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "73",
@@ -1245,7 +1313,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "74",
@@ -1294,7 +1364,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1311,7 +1382,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "78",
@@ -1328,7 +1401,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1346,7 +1420,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1364,7 +1439,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1382,7 +1458,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1400,7 +1477,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1418,7 +1496,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1436,7 +1515,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1454,7 +1534,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1472,7 +1553,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1490,7 +1572,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1508,7 +1591,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1526,7 +1610,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1544,7 +1629,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1579,7 +1665,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "93",
@@ -1596,7 +1684,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1614,7 +1703,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1631,7 +1721,9 @@
     "schedule": [],
     "pastors": [],
     "verified": false,
-    "associations": []
+    "associations": [
+      "AIBRECE"
+    ]
   },
   {
     "id": "96",
@@ -1666,7 +1758,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1702,7 +1795,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1720,7 +1814,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1738,7 +1833,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1756,7 +1852,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -1774,7 +1871,8 @@
     "pastors": [],
     "verified": false,
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ]
   },
   {
@@ -4754,7 +4852,8 @@
     "schedule": [],
     "pastors": [],
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ],
     "verified": false
   },
@@ -7761,6 +7860,24 @@
     "pastors": [],
     "associations": [
       "AIBREB"
+    ],
+    "verified": false
+  },
+  {
+    "id": "403",
+    "name": "Igreja Batista do Calvário",
+    "address": "Rua Cônego Braveza - Cidade dos Funcionários",
+    "number": "875",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipCode": "60822-815",
+    "latitude": -3.7954716,
+    "longitude": -38.498887,
+    "schedule": [],
+    "pastors": [],
+    "associations": [
+      "AIBRECE"
     ],
     "verified": false
   }
