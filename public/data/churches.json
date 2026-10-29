@@ -1708,24 +1708,6 @@
     ]
   },
   {
-    "id": "95",
-    "name": "Igreja Batista Regular Israel",
-    "address": "R. Duque de Caxias",
-    "number": "162",
-    "city": "Aracati",
-    "state": "CE",
-    "country": "Brasil",
-    "zipCode": "62800-000",
-    "latitude": -4.566966868615879,
-    "longitude": -37.76873978166912,
-    "schedule": [],
-    "pastors": [],
-    "verified": false,
-    "associations": [
-      "AIBRECE"
-    ]
-  },
-  {
     "id": "96",
     "name": "Igreja Batista Regular El-Shadday",
     "address": "R. Cônego Agostinho",
@@ -4907,7 +4889,8 @@
     "schedule": [],
     "pastors": [],
     "associations": [
-      "AIBREB"
+      "AIBREB",
+      "AIBRECE"
     ],
     "verified": false
   },
